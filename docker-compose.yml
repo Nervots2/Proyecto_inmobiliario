@@ -1,0 +1,30 @@
+version: '3.8'
+services:
+  postgres_gis:
+    image: postgis/postgis:latest
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password123
+      POSTGRES_DB: inmobiliaria_db
+    ports:
+      - "5432:5432"
+
+  mongodb:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.11.1
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m" # Límite estricto de RAM para evitar cuelgues
+    ports:
+      - "9200:9200"
+
+  redis_cache:
+    image: redis:alpine
+    ports:
+      - "6379:6379"
+      
