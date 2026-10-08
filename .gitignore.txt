@@ -1,0 +1,12 @@
+# Entornos virtuales
+mi_entorno/
+__pycache__/
+
+# Datos crudos y bases de datos locales
+datalake_crudo/
+*.csv
+*.pdf
+*.json
+
+# Variables de entorno o contraseñas
+.env
