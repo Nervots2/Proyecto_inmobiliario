@@ -15,3 +15,7 @@ venv/
 # Credenciales y variables privadas
 .env
 .env.*
+
+# Datos extraídos de Portal Inmobiliario
+# Se conservan localmente y no se publican en GitHub
+datalake_crudo/portal_inmobiliario/*.json
