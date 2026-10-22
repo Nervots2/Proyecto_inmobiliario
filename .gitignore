@@ -1,0 +1,17 @@
+# Archivos geográficos de gran tamaño
+datalake_crudo/ine/ine_cartografia_censo2024_gpkg.zip
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Credenciales y variables privadas
+.env
+.env.*
