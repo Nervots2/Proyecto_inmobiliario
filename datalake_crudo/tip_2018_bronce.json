@@ -1,0 +1,1157 @@
+{
+  "TIPs": 
+  [
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "15.26",
+      "Fecha": "2018-01-15",
+      "Hasta": "2018-02-14",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento",
+      "Valor": "25.05",
+      "Fecha": "2018-01-15",
+      "Hasta": "2018-02-14",
+      "Tipo": "44"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "5.1",
+      "Fecha": "2018-01-15",
+      "Hasta": "2018-02-14",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "2.74",
+      "Fecha": "2018-01-15",
+      "Hasta": "2018-02-14",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "3.84",
+      "Fecha": "2018-01-15",
+      "Hasta": "2018-02-14",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 50 unidades de fomento",
+      "Valor": "33.31",
+      "Fecha": "2018-01-15",
+      "Hasta": "2018-02-14",
+      "Tipo": "45"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Inferiores o iguales al equivalente de 2.000 unidades de fomento",
+      "Valor": "6.44",
+      "Fecha": "2018-01-15",
+      "Hasta": "2018-02-14",
+      "Tipo": "41"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Superiores al equivalente de 2.000 unidades de fomento",
+      "Valor": "3.62",
+      "Fecha": "2018-01-15",
+      "Hasta": "2018-02-14",
+      "Tipo": "42"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "27.43",
+      "Fecha": "2018-01-15",
+      "Hasta": "2018-02-14",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "23.68",
+      "Fecha": "2018-01-15",
+      "Hasta": "2018-02-14",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.32",
+      "Fecha": "2018-01-15",
+      "Hasta": "2018-02-14",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "3.37",
+      "Fecha": "2018-01-15",
+      "Hasta": "2018-02-14",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "3.86",
+      "Fecha": "2018-02-15",
+      "Hasta": "2018-03-14",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "3.4",
+      "Fecha": "2018-02-15",
+      "Hasta": "2018-03-14",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Inferiores o iguales al equivalente de 2.000 unidades de fomento",
+      "Valor": "6.38",
+      "Fecha": "2018-02-15",
+      "Hasta": "2018-03-14",
+      "Tipo": "41"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Superiores al equivalente de 2.000 unidades de fomento",
+      "Valor": "3.63",
+      "Fecha": "2018-02-15",
+      "Hasta": "2018-03-14",
+      "Tipo": "42"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "27.46",
+      "Fecha": "2018-02-15",
+      "Hasta": "2018-03-14",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "2.64",
+      "Fecha": "2018-02-15",
+      "Hasta": "2018-03-14",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.16",
+      "Fecha": "2018-02-15",
+      "Hasta": "2018-03-14",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 50 unidades de fomento",
+      "Valor": "33.41",
+      "Fecha": "2018-02-15",
+      "Hasta": "2018-03-14",
+      "Tipo": "45"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento",
+      "Valor": "25.03",
+      "Fecha": "2018-02-15",
+      "Hasta": "2018-03-14",
+      "Tipo": "44"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "15.3",
+      "Fecha": "2018-02-15",
+      "Hasta": "2018-03-14",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "5.12",
+      "Fecha": "2018-02-15",
+      "Hasta": "2018-03-14",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "23.06",
+      "Fecha": "2018-02-15",
+      "Hasta": "2018-03-14",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "3.31",
+      "Fecha": "2018-03-15",
+      "Hasta": "2018-04-13",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Inferiores o iguales al equivalente de 2.000 unidades de fomento",
+      "Valor": "6.24",
+      "Fecha": "2018-03-15",
+      "Hasta": "2018-04-13",
+      "Tipo": "41"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Superiores al equivalente de 2.000 unidades de fomento",
+      "Valor": "3.73",
+      "Fecha": "2018-03-15",
+      "Hasta": "2018-04-13",
+      "Tipo": "42"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "27.76",
+      "Fecha": "2018-03-15",
+      "Hasta": "2018-04-13",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "23.22",
+      "Fecha": "2018-03-15",
+      "Hasta": "2018-04-13",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "3.91",
+      "Fecha": "2018-03-15",
+      "Hasta": "2018-04-13",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 50 unidades de fomento",
+      "Valor": "33.61",
+      "Fecha": "2018-03-15",
+      "Hasta": "2018-04-13",
+      "Tipo": "45"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento",
+      "Valor": "25.3",
+      "Fecha": "2018-03-15",
+      "Hasta": "2018-04-13",
+      "Tipo": "44"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "15.42",
+      "Fecha": "2018-03-15",
+      "Hasta": "2018-04-13",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "5.24",
+      "Fecha": "2018-03-15",
+      "Hasta": "2018-04-13",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "2.18",
+      "Fecha": "2018-03-15",
+      "Hasta": "2018-04-13",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.2",
+      "Fecha": "2018-03-15",
+      "Hasta": "2018-04-13",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "14.54",
+      "Fecha": "2018-04-14",
+      "Hasta": "2018-05-14",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento",
+      "Valor": "25",
+      "Fecha": "2018-04-14",
+      "Hasta": "2018-05-14",
+      "Tipo": "44"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.82",
+      "Fecha": "2018-04-14",
+      "Hasta": "2018-05-14",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "2.55",
+      "Fecha": "2018-04-14",
+      "Hasta": "2018-05-14",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "3.86",
+      "Fecha": "2018-04-14",
+      "Hasta": "2018-05-14",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 50 unidades de fomento",
+      "Valor": "33.54",
+      "Fecha": "2018-04-14",
+      "Hasta": "2018-05-14",
+      "Tipo": "45"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Inferiores o iguales al equivalente de 2.000 unidades de fomento",
+      "Valor": "6.48",
+      "Fecha": "2018-04-14",
+      "Hasta": "2018-05-14",
+      "Tipo": "41"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Superiores al equivalente de 2.000 unidades de fomento",
+      "Valor": "3.75",
+      "Fecha": "2018-04-14",
+      "Hasta": "2018-05-14",
+      "Tipo": "42"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "27.44",
+      "Fecha": "2018-04-14",
+      "Hasta": "2018-05-14",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "22.22",
+      "Fecha": "2018-04-14",
+      "Hasta": "2018-05-14",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.26",
+      "Fecha": "2018-04-14",
+      "Hasta": "2018-05-14",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "3.48",
+      "Fecha": "2018-04-14",
+      "Hasta": "2018-05-14",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "14.74",
+      "Fecha": "2018-05-15",
+      "Hasta": "2018-06-14",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento",
+      "Valor": "24.94",
+      "Fecha": "2018-05-15",
+      "Hasta": "2018-06-14",
+      "Tipo": "44"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.72",
+      "Fecha": "2018-05-15",
+      "Hasta": "2018-06-14",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "2.55",
+      "Fecha": "2018-05-15",
+      "Hasta": "2018-06-14",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "3.84",
+      "Fecha": "2018-05-15",
+      "Hasta": "2018-06-14",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 50 unidades de fomento",
+      "Valor": "33.39",
+      "Fecha": "2018-05-15",
+      "Hasta": "2018-06-14",
+      "Tipo": "45"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Inferiores o iguales al equivalente de 2.000 unidades de fomento",
+      "Valor": "6.52",
+      "Fecha": "2018-05-15",
+      "Hasta": "2018-06-14",
+      "Tipo": "41"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Superiores al equivalente de 2.000 unidades de fomento",
+      "Valor": "3.44",
+      "Fecha": "2018-05-15",
+      "Hasta": "2018-06-14",
+      "Tipo": "42"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "27.41",
+      "Fecha": "2018-05-15",
+      "Hasta": "2018-06-14",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "21.62",
+      "Fecha": "2018-05-15",
+      "Hasta": "2018-06-14",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4",
+      "Fecha": "2018-05-15",
+      "Hasta": "2018-06-14",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "3.4",
+      "Fecha": "2018-05-15",
+      "Hasta": "2018-06-14",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "21.44",
+      "Fecha": "2018-06-15",
+      "Hasta": "2018-07-13",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.6",
+      "Fecha": "2018-06-15",
+      "Hasta": "2018-07-13",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 50 unidades de fomento",
+      "Valor": "32.35",
+      "Fecha": "2018-06-15",
+      "Hasta": "2018-07-13",
+      "Tipo": "45"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento",
+      "Valor": "24.65",
+      "Fecha": "2018-06-15",
+      "Hasta": "2018-07-13",
+      "Tipo": "44"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "14.4",
+      "Fecha": "2018-06-15",
+      "Hasta": "2018-07-13",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "26.93",
+      "Fecha": "2018-06-15",
+      "Hasta": "2018-07-13",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "2.01",
+      "Fecha": "2018-06-15",
+      "Hasta": "2018-07-13",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "3.83",
+      "Fecha": "2018-06-15",
+      "Hasta": "2018-07-13",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "3.28",
+      "Fecha": "2018-06-15",
+      "Hasta": "2018-07-13",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Inferiores o iguales al equivalente de 2.000 unidades de fomento",
+      "Valor": "6.72",
+      "Fecha": "2018-06-15",
+      "Hasta": "2018-07-13",
+      "Tipo": "41"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Superiores al equivalente de 2.000 unidades de fomento",
+      "Valor": "3.88",
+      "Fecha": "2018-06-15",
+      "Hasta": "2018-07-13",
+      "Tipo": "42"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.92",
+      "Fecha": "2018-06-15",
+      "Hasta": "2018-07-13",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "14.2",
+      "Fecha": "2018-07-14",
+      "Hasta": "2018-08-13",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento",
+      "Valor": "24.66",
+      "Fecha": "2018-07-14",
+      "Hasta": "2018-08-13",
+      "Tipo": "44"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.54",
+      "Fecha": "2018-07-14",
+      "Hasta": "2018-08-13",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "1.88",
+      "Fecha": "2018-07-14",
+      "Hasta": "2018-08-13",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "3.79",
+      "Fecha": "2018-07-14",
+      "Hasta": "2018-08-13",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 50 unidades de fomento",
+      "Valor": "33.04",
+      "Fecha": "2018-07-14",
+      "Hasta": "2018-08-13",
+      "Tipo": "45"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Inferiores o iguales al equivalente de 2.000 unidades de fomento",
+      "Valor": "6.52",
+      "Fecha": "2018-07-14",
+      "Hasta": "2018-08-13",
+      "Tipo": "41"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Superiores al equivalente de 2.000 unidades de fomento",
+      "Valor": "4.02",
+      "Fecha": "2018-07-14",
+      "Hasta": "2018-08-13",
+      "Tipo": "42"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "27.14",
+      "Fecha": "2018-07-14",
+      "Hasta": "2018-08-13",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "21.08",
+      "Fecha": "2018-07-14",
+      "Hasta": "2018-08-13",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.44",
+      "Fecha": "2018-07-14",
+      "Hasta": "2018-08-13",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "3.2",
+      "Fecha": "2018-07-14",
+      "Hasta": "2018-08-13",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "14.48",
+      "Fecha": "2018-08-14",
+      "Hasta": "2018-09-14",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento",
+      "Valor": "24.51",
+      "Fecha": "2018-08-14",
+      "Hasta": "2018-09-14",
+      "Tipo": "44"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.68",
+      "Fecha": "2018-08-14",
+      "Hasta": "2018-09-14",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "1.84",
+      "Fecha": "2018-08-14",
+      "Hasta": "2018-09-14",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "3.77",
+      "Fecha": "2018-08-14",
+      "Hasta": "2018-09-14",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 50 unidades de fomento",
+      "Valor": "32.8",
+      "Fecha": "2018-08-14",
+      "Hasta": "2018-09-14",
+      "Tipo": "45"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Inferiores o iguales al equivalente de 2.000 unidades de fomento",
+      "Valor": "6.86",
+      "Fecha": "2018-08-14",
+      "Hasta": "2018-09-14",
+      "Tipo": "41"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Superiores al equivalente de 2.000 unidades de fomento",
+      "Valor": "3.99",
+      "Fecha": "2018-08-14",
+      "Hasta": "2018-09-14",
+      "Tipo": "42"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "26.98",
+      "Fecha": "2018-08-14",
+      "Hasta": "2018-09-14",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "21.52",
+      "Fecha": "2018-08-14",
+      "Hasta": "2018-09-14",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.38",
+      "Fecha": "2018-08-14",
+      "Hasta": "2018-09-14",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "3.19",
+      "Fecha": "2018-08-14",
+      "Hasta": "2018-09-14",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "21.22",
+      "Fecha": "2018-09-15",
+      "Hasta": "2018-10-12",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.38",
+      "Fecha": "2018-09-15",
+      "Hasta": "2018-10-12",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 50 unidades de fomento",
+      "Valor": "32.84",
+      "Fecha": "2018-09-15",
+      "Hasta": "2018-10-12",
+      "Tipo": "45"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento",
+      "Valor": "24.28",
+      "Fecha": "2018-09-15",
+      "Hasta": "2018-10-12",
+      "Tipo": "44"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "13.96",
+      "Fecha": "2018-09-15",
+      "Hasta": "2018-10-12",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.84",
+      "Fecha": "2018-09-15",
+      "Hasta": "2018-10-12",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "1.79",
+      "Fecha": "2018-09-15",
+      "Hasta": "2018-10-12",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "3.7",
+      "Fecha": "2018-09-15",
+      "Hasta": "2018-10-12",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "3.07",
+      "Fecha": "2018-09-15",
+      "Hasta": "2018-10-12",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Inferiores o iguales al equivalente de 2.000 unidades de fomento",
+      "Valor": "6.92",
+      "Fecha": "2018-09-15",
+      "Hasta": "2018-10-12",
+      "Tipo": "41"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Superiores al equivalente de 2.000 unidades de fomento",
+      "Valor": "3.85",
+      "Fecha": "2018-09-15",
+      "Hasta": "2018-10-12",
+      "Tipo": "42"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "26.73",
+      "Fecha": "2018-09-15",
+      "Hasta": "2018-10-12",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Inferiores o iguales al equivalente de 2.000 unidades de fomento",
+      "Valor": "7.24",
+      "Fecha": "2018-10-13",
+      "Hasta": "2018-11-14",
+      "Tipo": "41"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "2.95",
+      "Fecha": "2018-10-13",
+      "Hasta": "2018-11-14",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "3.74",
+      "Fecha": "2018-10-13",
+      "Hasta": "2018-11-14",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "1.87",
+      "Fecha": "2018-10-13",
+      "Hasta": "2018-11-14",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "14.22",
+      "Fecha": "2018-10-13",
+      "Hasta": "2018-11-14",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento",
+      "Valor": "24.46",
+      "Fecha": "2018-10-13",
+      "Hasta": "2018-11-14",
+      "Tipo": "44"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "26.95",
+      "Fecha": "2018-10-13",
+      "Hasta": "2018-11-14",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.52",
+      "Fecha": "2018-10-13",
+      "Hasta": "2018-11-14",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "20.9",
+      "Fecha": "2018-10-13",
+      "Hasta": "2018-11-14",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.34",
+      "Fecha": "2018-10-13",
+      "Hasta": "2018-11-14",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 50 unidades de fomento",
+      "Valor": "32.66",
+      "Fecha": "2018-10-13",
+      "Hasta": "2018-11-14",
+      "Tipo": "45"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Superiores al equivalente de 2.000 unidades de fomento",
+      "Valor": "4.44",
+      "Fecha": "2018-10-13",
+      "Hasta": "2018-11-14",
+      "Tipo": "42"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "3.66",
+      "Fecha": "2018-11-15",
+      "Hasta": "2018-12-14",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "2.18",
+      "Fecha": "2018-11-15",
+      "Hasta": "2018-12-14",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.46",
+      "Fecha": "2018-11-15",
+      "Hasta": "2018-12-14",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento",
+      "Valor": "24.18",
+      "Fecha": "2018-11-15",
+      "Hasta": "2018-12-14",
+      "Tipo": "44"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "14.18",
+      "Fecha": "2018-11-15",
+      "Hasta": "2018-12-14",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "3",
+      "Fecha": "2018-11-15",
+      "Hasta": "2018-12-14",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 50 unidades de fomento",
+      "Valor": "32.74",
+      "Fecha": "2018-11-15",
+      "Hasta": "2018-12-14",
+      "Tipo": "45"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.56",
+      "Fecha": "2018-11-15",
+      "Hasta": "2018-12-14",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "20.98",
+      "Fecha": "2018-11-15",
+      "Hasta": "2018-12-14",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "26.67",
+      "Fecha": "2018-11-15",
+      "Hasta": "2018-12-14",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Superiores al equivalente de 2.000 unidades de fomento",
+      "Valor": "4.68",
+      "Fecha": "2018-11-15",
+      "Hasta": "2018-12-14",
+      "Tipo": "42"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Inferiores o iguales al equivalente de 2.000 unidades de fomento",
+      "Valor": "7.12",
+      "Fecha": "2018-11-15",
+      "Hasta": "2018-12-14",
+      "Tipo": "41"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.48",
+      "Fecha": "2018-12-15",
+      "Hasta": "2019-01-14",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento",
+      "Valor": "24.57",
+      "Fecha": "2018-12-15",
+      "Hasta": "2019-01-14",
+      "Tipo": "44"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "4.62",
+      "Fecha": "2018-12-15",
+      "Hasta": "2019-01-14",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "2.75",
+      "Fecha": "2018-12-15",
+      "Hasta": "2019-01-14",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "3.63",
+      "Fecha": "2018-12-15",
+      "Hasta": "2019-01-14",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 50 unidades de fomento",
+      "Valor": "32.43",
+      "Fecha": "2018-12-15",
+      "Hasta": "2019-01-14",
+      "Tipo": "45"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "26.83",
+      "Fecha": "2018-12-15",
+      "Hasta": "2019-01-14",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "14.58",
+      "Fecha": "2018-12-15",
+      "Hasta": "2019-01-14",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Superiores al equivalente de 2.000 unidades de fomento",
+      "Valor": "4",
+      "Fecha": "2018-12-15",
+      "Hasta": "2019-01-14",
+      "Tipo": "42"
+    },
+    {
+      "Titulo": "Operaciones expresadas en moneda extranjera",
+      "SubTitulo": "Inferiores o iguales al equivalente de 2.000 unidades de fomento",
+      "Valor": "7.12",
+      "Fecha": "2018-12-15",
+      "Hasta": "2019-01-14",
+      "Tipo": "41"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "2.86",
+      "Fecha": "2018-12-15",
+      "Hasta": "2019-01-14",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "21.36",
+      "Fecha": "2018-12-15",
+      "Hasta": "2019-01-14",
+      "Tipo": "26"
+    }
+  ]
+}

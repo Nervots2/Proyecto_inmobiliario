@@ -1,0 +1,869 @@
+{
+  "TIPs": 
+  [
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "15.66",
+      "Fecha": "2007-01-11",
+      "Hasta": "2007-02-11",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.8",
+      "Fecha": "2007-01-11",
+      "Hasta": "2007-02-11",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "30.94",
+      "Fecha": "2007-01-11",
+      "Hasta": "2007-02-11",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "8.06",
+      "Fecha": "2007-01-11",
+      "Hasta": "2007-02-11",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "18.66",
+      "Fecha": "2007-01-11",
+      "Hasta": "2007-02-11",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "7.28",
+      "Fecha": "2007-01-11",
+      "Hasta": "2007-02-11",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "7.06",
+      "Fecha": "2007-01-11",
+      "Hasta": "2007-02-11",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "5.1",
+      "Fecha": "2007-01-11",
+      "Hasta": "2007-02-11",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": null,
+      "SubTitulo": "Operaciones expresadas en moneda extranjera",
+      "Valor": "6.02",
+      "Fecha": "2007-01-11",
+      "Hasta": "2007-02-11",
+      "Tipo": "36"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "4.64",
+      "Fecha": "2007-02-12",
+      "Hasta": "2007-03-12",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": null,
+      "SubTitulo": "Operaciones expresadas en moneda extranjera",
+      "Valor": "6.16",
+      "Fecha": "2007-02-12",
+      "Hasta": "2007-03-12",
+      "Tipo": "36"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "15.46",
+      "Fecha": "2007-02-12",
+      "Hasta": "2007-03-12",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.44",
+      "Fecha": "2007-02-12",
+      "Hasta": "2007-03-12",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "6.16",
+      "Fecha": "2007-02-12",
+      "Hasta": "2007-03-12",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "18.84",
+      "Fecha": "2007-02-12",
+      "Hasta": "2007-03-12",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.7",
+      "Fecha": "2007-02-12",
+      "Hasta": "2007-03-12",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "6.1",
+      "Fecha": "2007-02-12",
+      "Hasta": "2007-03-12",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "31.78",
+      "Fecha": "2007-02-12",
+      "Hasta": "2007-03-12",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "19.3",
+      "Fecha": "2007-03-13",
+      "Hasta": "2007-04-15",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.46",
+      "Fecha": "2007-03-13",
+      "Hasta": "2007-04-15",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "6",
+      "Fecha": "2007-03-13",
+      "Hasta": "2007-04-15",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "6",
+      "Fecha": "2007-03-13",
+      "Hasta": "2007-04-15",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "32.12",
+      "Fecha": "2007-03-13",
+      "Hasta": "2007-04-15",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": null,
+      "SubTitulo": "Operaciones expresadas en moneda extranjera",
+      "Valor": "6.16",
+      "Fecha": "2007-03-13",
+      "Hasta": "2007-04-15",
+      "Tipo": "36"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "15.3",
+      "Fecha": "2007-03-13",
+      "Hasta": "2007-04-15",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.42",
+      "Fecha": "2007-03-13",
+      "Hasta": "2007-04-15",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "4.7",
+      "Fecha": "2007-03-13",
+      "Hasta": "2007-04-15",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "17.92",
+      "Fecha": "2007-04-16",
+      "Hasta": "2007-05-09",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "31.66",
+      "Fecha": "2007-04-16",
+      "Hasta": "2007-05-09",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.4",
+      "Fecha": "2007-04-16",
+      "Hasta": "2007-05-09",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "5.9",
+      "Fecha": "2007-04-16",
+      "Hasta": "2007-05-09",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.64",
+      "Fecha": "2007-04-16",
+      "Hasta": "2007-05-09",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "4.44",
+      "Fecha": "2007-04-16",
+      "Hasta": "2007-05-09",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": null,
+      "SubTitulo": "Operaciones expresadas en moneda extranjera",
+      "Valor": "6.06",
+      "Fecha": "2007-04-16",
+      "Hasta": "2007-05-09",
+      "Tipo": "36"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "15.66",
+      "Fecha": "2007-04-16",
+      "Hasta": "2007-05-09",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "5.88",
+      "Fecha": "2007-04-16",
+      "Hasta": "2007-05-09",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.14",
+      "Fecha": "2007-05-10",
+      "Hasta": "2007-06-11",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "5.68",
+      "Fecha": "2007-05-10",
+      "Hasta": "2007-06-11",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "5.48",
+      "Fecha": "2007-05-10",
+      "Hasta": "2007-06-11",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "4.56",
+      "Fecha": "2007-05-10",
+      "Hasta": "2007-06-11",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "18.08",
+      "Fecha": "2007-05-10",
+      "Hasta": "2007-06-11",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "15.48",
+      "Fecha": "2007-05-10",
+      "Hasta": "2007-06-11",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.68",
+      "Fecha": "2007-05-10",
+      "Hasta": "2007-06-11",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "32.02",
+      "Fecha": "2007-05-10",
+      "Hasta": "2007-06-11",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": null,
+      "SubTitulo": "Operaciones expresadas en moneda extranjera",
+      "Valor": "5.9",
+      "Fecha": "2007-05-10",
+      "Hasta": "2007-06-11",
+      "Tipo": "36"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.58",
+      "Fecha": "2007-06-12",
+      "Hasta": "2007-07-11",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "5.28",
+      "Fecha": "2007-06-12",
+      "Hasta": "2007-07-11",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "5.26",
+      "Fecha": "2007-06-12",
+      "Hasta": "2007-07-11",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "4.22",
+      "Fecha": "2007-06-12",
+      "Hasta": "2007-07-11",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "32.46",
+      "Fecha": "2007-06-12",
+      "Hasta": "2007-07-11",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "15.92",
+      "Fecha": "2007-06-12",
+      "Hasta": "2007-07-11",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "8.16",
+      "Fecha": "2007-06-12",
+      "Hasta": "2007-07-11",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "18.58",
+      "Fecha": "2007-06-12",
+      "Hasta": "2007-07-11",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": null,
+      "SubTitulo": "Operaciones expresadas en moneda extranjera",
+      "Valor": "6.04",
+      "Fecha": "2007-06-12",
+      "Hasta": "2007-07-11",
+      "Tipo": "36"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "4.24",
+      "Fecha": "2007-07-12",
+      "Hasta": "2007-08-13",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": null,
+      "SubTitulo": "Operaciones expresadas en moneda extranjera",
+      "Valor": "5.92",
+      "Fecha": "2007-07-12",
+      "Hasta": "2007-08-13",
+      "Tipo": "36"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "16.06",
+      "Fecha": "2007-07-12",
+      "Hasta": "2007-08-13",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.88",
+      "Fecha": "2007-07-12",
+      "Hasta": "2007-08-13",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "5.1",
+      "Fecha": "2007-07-12",
+      "Hasta": "2007-08-13",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "18.4",
+      "Fecha": "2007-07-12",
+      "Hasta": "2007-08-13",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.62",
+      "Fecha": "2007-07-12",
+      "Hasta": "2007-08-13",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "4.62",
+      "Fecha": "2007-07-12",
+      "Hasta": "2007-08-13",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "32.26",
+      "Fecha": "2007-07-12",
+      "Hasta": "2007-08-13",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "19.02",
+      "Fecha": "2007-08-14",
+      "Hasta": "2007-09-10",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.64",
+      "Fecha": "2007-08-14",
+      "Hasta": "2007-09-10",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "4.6",
+      "Fecha": "2007-08-14",
+      "Hasta": "2007-09-10",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "5.26",
+      "Fecha": "2007-08-14",
+      "Hasta": "2007-09-10",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "32.66",
+      "Fecha": "2007-08-14",
+      "Hasta": "2007-09-10",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": null,
+      "SubTitulo": "Operaciones expresadas en moneda extranjera",
+      "Valor": "6.06",
+      "Fecha": "2007-08-14",
+      "Hasta": "2007-09-10",
+      "Tipo": "36"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "15.42",
+      "Fecha": "2007-08-14",
+      "Hasta": "2007-09-10",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.84",
+      "Fecha": "2007-08-14",
+      "Hasta": "2007-09-10",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "4.18",
+      "Fecha": "2007-08-14",
+      "Hasta": "2007-09-10",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "18.94",
+      "Fecha": "2007-09-11",
+      "Hasta": "2007-10-09",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "32.2",
+      "Fecha": "2007-09-11",
+      "Hasta": "2007-10-09",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.96",
+      "Fecha": "2007-09-11",
+      "Hasta": "2007-10-09",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "4.62",
+      "Fecha": "2007-09-11",
+      "Hasta": "2007-10-09",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.48",
+      "Fecha": "2007-09-11",
+      "Hasta": "2007-10-09",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "4.34",
+      "Fecha": "2007-09-11",
+      "Hasta": "2007-10-09",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": null,
+      "SubTitulo": "Operaciones expresadas en moneda extranjera",
+      "Valor": "6.14",
+      "Fecha": "2007-09-11",
+      "Hasta": "2007-10-09",
+      "Tipo": "36"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "14.34",
+      "Fecha": "2007-09-11",
+      "Hasta": "2007-10-09",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "5.48",
+      "Fecha": "2007-09-11",
+      "Hasta": "2007-10-09",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "8.48",
+      "Fecha": "2007-10-10",
+      "Hasta": "2007-11-12",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "4.22",
+      "Fecha": "2007-10-10",
+      "Hasta": "2007-11-12",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "5.38",
+      "Fecha": "2007-10-10",
+      "Hasta": "2007-11-12",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "4.24",
+      "Fecha": "2007-10-10",
+      "Hasta": "2007-11-12",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "18.94",
+      "Fecha": "2007-10-10",
+      "Hasta": "2007-11-12",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "14.82",
+      "Fecha": "2007-10-10",
+      "Hasta": "2007-11-12",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.7",
+      "Fecha": "2007-10-10",
+      "Hasta": "2007-11-12",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "32.78",
+      "Fecha": "2007-10-10",
+      "Hasta": "2007-11-12",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": null,
+      "SubTitulo": "Operaciones expresadas en moneda extranjera",
+      "Valor": "6.2",
+      "Fecha": "2007-10-10",
+      "Hasta": "2007-11-12",
+      "Tipo": "36"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "8.5",
+      "Fecha": "2007-11-13",
+      "Hasta": "2007-12-11",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "19.12",
+      "Fecha": "2007-11-13",
+      "Hasta": "2007-12-11",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "4.18",
+      "Fecha": "2007-11-13",
+      "Hasta": "2007-12-11",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "5.5",
+      "Fecha": "2007-11-13",
+      "Hasta": "2007-12-11",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "33.04",
+      "Fecha": "2007-11-13",
+      "Hasta": "2007-12-11",
+      "Tipo": "33"
+    },
+    {
+      "Titulo": null,
+      "SubTitulo": "Operaciones expresadas en moneda extranjera",
+      "Valor": "5.9",
+      "Fecha": "2007-11-13",
+      "Hasta": "2007-12-11",
+      "Tipo": "36"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "15.02",
+      "Fecha": "2007-11-13",
+      "Hasta": "2007-12-11",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.7",
+      "Fecha": "2007-11-13",
+      "Hasta": "2007-12-11",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "4.32",
+      "Fecha": "2007-11-13",
+      "Hasta": "2007-12-11",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Superiores al equivalente de 2000 unidades de fomento",
+      "Valor": "4.6",
+      "Fecha": "2007-12-12",
+      "Hasta": "2008-01-10",
+      "Tipo": "22"
+    },
+    {
+      "Titulo": null,
+      "SubTitulo": "Operaciones expresadas en moneda extranjera",
+      "Valor": "5.74",
+      "Fecha": "2007-12-12",
+      "Hasta": "2008-01-10",
+      "Tipo": "36"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento",
+      "Valor": "15.24",
+      "Fecha": "2007-12-12",
+      "Hasta": "2008-01-10",
+      "Tipo": "26"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional de menos de 90 días",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "7.8",
+      "Fecha": "2007-12-12",
+      "Hasta": "2008-01-10",
+      "Tipo": "25"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento",
+      "Valor": "5.46",
+      "Fecha": "2007-12-12",
+      "Hasta": "2008-01-10",
+      "Tipo": "24"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento",
+      "Valor": "19.22",
+      "Fecha": "2007-12-12",
+      "Hasta": "2008-01-10",
+      "Tipo": "35"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Superiores al equivalente de 5.000 unidades de fomento",
+      "Valor": "8.34",
+      "Fecha": "2007-12-12",
+      "Hasta": "2008-01-10",
+      "Tipo": "34"
+    },
+    {
+      "Titulo": "Operaciones reajustables en moneda nacional",
+      "SubTitulo": "Menores a un año",
+      "Valor": "5.02",
+      "Fecha": "2007-12-12",
+      "Hasta": "2008-01-10",
+      "Tipo": "21"
+    },
+    {
+      "Titulo": "Operaciones no reajustables en moneda nacional 90 días o más",
+      "SubTitulo": "Inferiores o iguales al equivalente de 200 unidades de fomento",
+      "Valor": "32.96",
+      "Fecha": "2007-12-12",
+      "Hasta": "2008-01-10",
+      "Tipo": "33"
+    }
+  ]
+}
