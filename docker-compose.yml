@@ -1,4 +1,3 @@
-version: '3.8'
 services:
   postgres_gis:
     image: postgis/postgis:latest
@@ -29,16 +28,16 @@ services:
       - "6379:6379"
   
   minio:
-  image: quay.io/minio/minio:RELEASE.2025-09-06T17-38-46Z
-  command: server /data --console-address ":9001"
-  environment:
-    MINIO_ROOT_USER: ${MINIO_ROOT_USER:?Configurar usuario}
-    MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD:?Configurar contraseña}
-  ports:
-    - "127.0.0.1:9000:9000"
-    - "127.0.0.1:9001:9001"
-  volumes:
-    - minio_data:/data
+    image: docker.io/pgsty/silo:RELEASE.2026-10-26T00-00-00Z
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
+    ports:
+      - "127.0.0.1:9000:9000"
+      - "127.0.0.1:9001:9001"
+    volumes:
+      - minio_data:/data
 
 
 volumes:
