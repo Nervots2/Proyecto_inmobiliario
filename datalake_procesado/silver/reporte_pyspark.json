@@ -1,0 +1,14 @@
+{
+    "procesamiento": "Batch con Apache Spark",
+    "tipo_pauta": 1,
+    "tecnologia": "PySpark",
+    "version_spark": "4.0.1",
+    "modo_ejecucion": "local[2]",
+    "fecha_procesamiento_utc": "2026-10-28T21:35:19.237007+00:00",
+    "archivos_entrada": 14,
+    "registros_originales": 28603,
+    "registros_procesados": 28307,
+    "duplicados_eliminados": 296,
+    "columnas": 14,
+    "formato_salida": "Parquet"
+}

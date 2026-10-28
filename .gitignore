@@ -26,6 +26,7 @@ datalake_crudo/chilepropiedades/chilepropiedades_departamento.jsonl
 
 # Datos procesados de gran tamaño
 datalake_procesado/silver/*.jsonl
+datalake_procesado/silver/chilepropiedades_batch_spark/
 
 # Datasets procesados
 datalake_procesado/silver/*.parquet

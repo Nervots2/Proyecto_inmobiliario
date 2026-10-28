@@ -1,0 +1,20 @@
+{
+    "procesamiento": "Analítico en memoria",
+    "tecnologia": "Polars",
+    "tipo_pauta": 8,
+    "fecha_procesamiento_utc": "2026-10-28T20:07:08.548765+00:00",
+    "registros_entrada": 28307,
+    "publicaciones_contabilizadas": 28307,
+    "grupos_generados": 429,
+    "dimensiones": [
+        "tipo_propiedad",
+        "comuna_slug"
+    ],
+    "metricas": [
+        "total_publicaciones",
+        "mediana_precio_clp",
+        "mediana_precio_uf",
+        "mediana_superficie_m2"
+    ],
+    "modalidad": "Lazy Evaluation sobre Parquet"
+}
