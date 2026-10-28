@@ -20,5 +20,13 @@ venv/
 # Se conservan localmente y no se publican en GitHub
 datalake_crudo/portal_inmobiliario/*.json
 
+# Datos de gran tamaño extraídos de chilepropiedades
+datalake_crudo/chilepropiedades/chilepropiedades_masivo.jsonl
+datalake_crudo/chilepropiedades/chilepropiedades_departamento.jsonl
+
+# Datos procesados de gran tamaño
+
+datalake_procesado/silver/*.jsonl
+
 # Datos crudos generados durante pruebas en Jupyter
 notebooks/data/raw/

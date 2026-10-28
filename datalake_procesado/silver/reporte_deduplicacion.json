@@ -1,0 +1,10 @@
+{
+    "procesamiento": "Deduplicación por URL",
+    "fecha_procesamiento": "2026-10-28T14:39:51.591600+00:00",
+    "archivos_entrada": 14,
+    "registros_originales": 28603,
+    "registros_conservados": 28307,
+    "duplicados_eliminados": 296,
+    "porcentaje_duplicados": 1.035,
+    "criterio": "Conservar la primera aparición por URL normalizada"
+}
