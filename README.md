@@ -35,6 +35,68 @@ Proyecto_inmobiliario/
 
 La estructura puede ampliarse durante el desarrollo del proyecto.
 
+## Inicio rápido: infraestructura Docker
+
+El proyecto utiliza Docker Compose para administrar los servicios de almacenamiento y procesamiento de datos.
+
+### Requisitos previos
+
+- Docker Desktop instalado y en ejecución.
+- Repositorio descargado localmente.
+- Archivo `.env` configurado con las credenciales necesarias.
+
+**Nota:** el archivo `.env` contiene información sensible y no debe subirse a GitHub.
+
+### 1. Iniciar los servicios
+
+Abrir una terminal en la carpeta principal del proyecto y ejecutar:
+
+```powershell
+docker compose up -d minio postgres_gis
+```
+
+Este comando inicia los servicios:
+
+- **SILO (servicio `minio`):** almacenamiento de objetos compatible con S3 para el Data Lake.
+- **PostgreSQL/PostGIS:** almacenamiento relacional y soporte de consultas geoespaciales para el Data Warehouse.
+
+### 2. Verificar los contenedores
+
+```powershell
+docker compose ps
+```
+
+Comprobar que ambos servicios se encuentren en ejecución.
+
+### 3. Acceder a los almacenamientos
+
+**Data Lake — SILO**
+
+- Consola: http://localhost:9001
+- Credenciales: definidas en `.env`
+- Bucket de datos crudos: `lake-crudo`
+
+**Data Warehouse — PostgreSQL**
+
+Puede consultarse mediante DBeaver utilizando:
+
+- Host: `localhost`
+- Puerto: `5432`
+- Base de datos: `inmobiliaria_db`
+- Credenciales: definidas en `.env`
+- Esquema analítico: `dw`
+
+### 4. Detener los servicios
+
+```powershell
+docker compose stop minio postgres_gis
+```
+
+Este comando detiene los contenedores sin eliminar los volúmenes persistentes.
+
+**Importante:** iniciar los contenedores no ejecuta automáticamente todas las ingestas ni los procesos de transformación del proyecto.
+
+
 ## Fuentes de datos
 
 El proyecto contempla información obtenida de fuentes como:
