@@ -29,7 +29,7 @@ GUARDAR_JSON = False
 
 # Límites de extracción
 MAX_PAGINAS = 1
-PAUSA_SEGUNDOS = 4
+PAUSA_SEGUNDOS = 5
 TIMEOUT = 25
 
 # ==========================================
@@ -39,21 +39,63 @@ TIMEOUT = 25
 BUSQUEDAS = [
     {
         "tipo_propiedad": "casa",
-        "ubicacion": "santiago-metropolitana",
+        "ubicacion": "metropolitana",
         "modalidad": None,
-        "max_paginas": 1
+        "max_paginas": 4
     },
     {
         "tipo_propiedad": "departamento",
-        "ubicacion": "santiago-metropolitana",
+        "ubicacion": "metropolitana",
         "modalidad": "propiedades-usadas",
-        "max_paginas": 1
+        "max_paginas": 4
     },
     {
         "tipo_propiedad": "oficina",
-        "ubicacion": "valparaiso",
+        "ubicacion": "metropolitana",
         "modalidad": None,
-        "max_paginas": 1
+        "max_paginas": 4
+    },
+    {
+        "tipo_propiedad": "industrial",
+        "ubicacion": "metropolitana",
+        "modalidad": None,
+        "max_paginas": 4
+    },
+    {
+        "tipo_propiedad": "comercial",
+        "ubicacion": "metropolitana",
+        "modalidad": None,
+        "max_paginas": 4
+    },
+    {
+        "tipo_propiedad": "sitio",
+        "ubicacion": "metropolitana",
+        "modalidad": None,
+        "max_paginas": 4
+    },
+    {
+        "tipo_propiedad": "casa",
+        "ubicacion": "biobio",
+        "modalidad": None,
+        "max_paginas": 4
+    },
+    {
+        "tipo_propiedad": "casa",
+        "ubicacion": "antofagasta",
+        "modalidad": None,
+        "max_paginas": 2
+    },
+    {
+        "tipo_propiedad": "casa",
+        "ubicacion": "maule",
+        "modalidad": None,
+        "max_paginas": 2
+    },
+    {
+        "tipo_propiedad": "casa",
+        "ubicacion": "la-araucania",
+        "modalidad": None,
+        "max_paginas": 2
     }
 ]
 
@@ -256,8 +298,23 @@ def extraer_publicaciones(
         # Identificar proyectos inmobiliarios
         es_proyecto = "proyecto" in segmentos
 
+        # Extraer el título de la publicación
+        titulo = extraer_texto(
+            tarjeta,
+            ".poly-component__title"
+)
+
         # Identificar precios iniciales
-        precio_desde = "desde" in segmentos
+        precio_desde = (
+            "desde" in segmentos
+            or bool(
+                re.search(
+                    r"\bdesde\b",
+                    titulo or "",
+                    flags=re.IGNORECASE
+                )
+            )
+        )
 
         # Buscar la cantidad de unidades disponibles
         coincidencia_unidades = re.search(
@@ -275,9 +332,7 @@ def extraer_publicaciones(
         # Construir el registro estructurado
         publicaciones[id_publicacion] = {
             "id": id_publicacion,
-            "titulo": extraer_texto(
-                tarjeta, ".poly-component__title"
-            ),
+            "titulo": titulo,
             "precio_actual": extraer_texto(
                 tarjeta, ".poly-price__current .poly-price__amount"
             ),
@@ -321,7 +376,17 @@ if __name__ == "__main__":
     else:
 
         # Recorrer las configuraciones de búsqueda
-        for busqueda in BUSQUEDAS[2:3]:
+        for busqueda in BUSQUEDAS:
+
+            # Procesar solamente las categorías pendientes
+            # de la Región Metropolitana
+            if not (
+                busqueda["tipo_propiedad"] in {
+                    "oficina", "comercial", "sitio"
+                }
+                and busqueda["ubicacion"] == "metropolitana"
+            ):
+                continue
 
             tipo_propiedad = busqueda["tipo_propiedad"]
             ubicacion = busqueda["ubicacion"]

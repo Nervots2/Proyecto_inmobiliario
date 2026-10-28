@@ -19,3 +19,6 @@ venv/
 # Datos extraídos de Portal Inmobiliario
 # Se conservan localmente y no se publican en GitHub
 datalake_crudo/portal_inmobiliario/*.json
+
+# Datos crudos generados durante pruebas en Jupyter
+notebooks/data/raw/
