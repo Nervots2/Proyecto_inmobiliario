@@ -1,0 +1,30 @@
+{
+    "procesamiento": "Transformación y normalización",
+    "fecha_procesamiento_utc": "2026-10-28T15:08:04.903669+00:00",
+    "registros_entrada": 28307,
+    "registros_salida": 28307,
+    "columnas": 12,
+    "transformaciones": [
+        "Aplanamiento de estructuras JSON anidadas",
+        "Extracción de tipo de propiedad y comuna desde URL",
+        "Conversión de variables a tipos numéricos",
+        "Conversión de fechas a datetime",
+        "Marcado de precios y superficies no positivos como faltantes"
+    ],
+    "valores_faltantes": {
+        "id_publicacion": 0,
+        "url": 0,
+        "titulo": 0,
+        "tipo_propiedad": 0,
+        "comuna_slug": 0,
+        "precio_clp": 0,
+        "precio_uf": 9,
+        "superficie_m2": 480,
+        "habitaciones": 1698,
+        "banos": 1680,
+        "fecha_extraccion": 0,
+        "archivo_origen": 0
+    },
+    "superficies_menores_10m2": 113,
+    "ids_duplicados": 0
+}
