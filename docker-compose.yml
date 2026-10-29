@@ -53,6 +53,9 @@ services:
       MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
     volumes:
       - ./config/trino/catalog/lake.properties:/etc/trino/catalog/lake.properties:ro
+      - ./config/trino/catalog/delta.properties:/etc/trino/catalog/delta.properties:ro
+
+      
     restart: unless-stopped
 
   hive_metastore:
