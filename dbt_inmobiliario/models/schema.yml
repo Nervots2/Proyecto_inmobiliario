@@ -1,0 +1,31 @@
+version: 2
+
+models:
+  - name: resumen_publicaciones
+    description: >
+      Indicadores de publicaciones inmobiliarias,
+      agrupados por tipo de propiedad y moneda.
+
+    columns:
+      - name: tipo_propiedad
+        data_tests:
+          - not_null
+
+      - name: moneda
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['UF', 'CLP']
+
+      - name: total_publicaciones
+        data_tests:
+          - not_null
+
+      - name: precio_promedio
+        data_tests:
+          - not_null
+
+      - name: mediana_precio
+        data_tests:
+          - not_null

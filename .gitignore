@@ -36,3 +36,11 @@ notebooks/data/raw/
 
 # Controlador JDBC descargable
 config/hive/jdbc/*.jar
+
+# Configuraciones locales de dbt
+config/dbt/
+
+# Archivos temporales y generados por dbt
+**/target/
+**/dbt_packages/
+**/logs/
