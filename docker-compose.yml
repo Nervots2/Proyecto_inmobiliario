@@ -40,6 +40,46 @@ services:
       - "127.0.0.1:9001:9001"
     volumes:
       - minio_data:/data
+  
+  trino:
+    image: trinodb/trino:484
+    ports:
+      - "127.0.0.1:8088:8080"
+    depends_on:
+      - minio
+      - hive_metastore
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
+    volumes:
+      - ./config/trino/catalog/lake.properties:/etc/trino/catalog/lake.properties:ro
+    restart: unless-stopped
+
+  hive_metastore:
+    image: apache/hive:4.0.1
+    environment:
+      SERVICE_NAME: metastore
+      DB_DRIVER: postgres
+      SERVICE_OPTS: >-
+        -Djavax.jdo.option.ConnectionDriverName=org.postgresql.Driver
+        -Djavax.jdo.option.ConnectionURL=jdbc:postgresql://postgres_gis:5432/hive_metastore
+        -Djavax.jdo.option.ConnectionUserName=hive_user
+        -Djavax.jdo.option.ConnectionPassword=${HIVE_DB_PASSWORD}
+      HADOOP_OPTIONAL_TOOLS: hadoop-aws
+      AWS_ACCESS_KEY_ID: ${MINIO_ROOT_USER}
+      AWS_SECRET_ACCESS_KEY: ${MINIO_ROOT_PASSWORD}
+    networks:
+      default:
+        aliases:
+          - hive-metastore 
+    ports:
+      - "127.0.0.1:9083:9083"
+    volumes:
+      - ./config/hive/jdbc/postgresql-42.7.5.jar:/opt/hive/lib/postgres.jar:ro
+      - ./config/hive/hadoop/core-site.xml:/opt/hadoop/etc/hadoop/core-site.xml:ro
+    depends_on:
+      - postgres_gis
+    restart: unless-stopped
 
 
 volumes:

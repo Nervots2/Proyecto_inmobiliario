@@ -33,3 +33,6 @@ datalake_procesado/silver/*.parquet
 
 # Datos crudos generados durante pruebas en Jupyter
 notebooks/data/raw/
+
+# Controlador JDBC descargable
+config/hive/jdbc/*.jar
