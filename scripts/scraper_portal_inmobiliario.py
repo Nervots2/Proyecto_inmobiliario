@@ -1,40 +1,27 @@
-# ==========================================
-# SCRAPER INMOBILIARIO - CHILE
-# Proyecto: Taller de Big Data
-# ==========================================
+"""Scraper independiente de Portal Inmobiliario para el proyecto académico.
 
-import requests
-import re
+Guarda nuevas publicaciones de forma incremental y conserva JSON anteriores.
+Respeta robots.txt y límites HTTP; detiene la ejecución ante bloqueos.
+"""
+from __future__ import annotations
+
+import argparse
 import json
+import re
+import sys
 import time
-
-from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urljoin, urlparse
 from urllib.robotparser import RobotFileParser
 
+import requests
+from bs4 import BeautifulSoup
 
-# ==========================================
-# CONFIGURACIÓN DEL SCRAPER
-# ==========================================
 
-# Parámetros de búsqueda
-TIPO_PROPIEDAD = "casa"
+# Configuración de búsquedas y funciones de extracción existentes
+
 OPERACION = "venta"
-MODALIDAD = None
-UBICACION = "santiago-metropolitana"
-
-# Control del almacenamiento
-GUARDAR_JSON = False
-
-# Límites de extracción
-MAX_PAGINAS = 1
-PAUSA_SEGUNDOS = 5
-TIMEOUT = 25
-
-# ==========================================
-# CONFIGURACIONES DE BÚSQUEDA
-# ==========================================
 
 BUSQUEDAS = [
     {
@@ -99,26 +86,17 @@ BUSQUEDAS = [
     }
 ]
 
-# Identificación del programa
 AGENTE = "UTFSM-ProyectoAcademico"
 
-# Directorio principal del repositorio
 RUTA_PROYECTO = Path(__file__).resolve().parent.parent
 
-# Directorio donde se almacenarán los datos
 RUTA_DATOS = (
     RUTA_PROYECTO
     / "datalake_crudo"
     / "portal_inmobiliario"
 )
 
-# Dirección principal del portal
 URL_BASE = "https://www.portalinmobiliario.com"
-
-
-# ==========================================
-# CONSTRUCCIÓN DE URLs
-# ==========================================
 
 def construir_url(
     pagina,
@@ -159,83 +137,6 @@ def construir_url(
         "_FULL_true_NoIndex_True"
     )
 
-
-# ==========================================
-# VERIFICACIÓN DE ROBOTS.TXT
-# ==========================================
-
-def cargar_reglas_robots():
-
-    url_robots = f"{URL_BASE}/robots.txt"
-
-    try:
-        respuesta = requests.get(
-            url_robots,
-            headers={"User-Agent": AGENTE},
-            timeout=TIMEOUT
-        )
-
-        respuesta.raise_for_status()
-
-    except requests.RequestException as error:
-        print(f"Error al consultar robots.txt: {error}")
-        return None
-
-    robots = RobotFileParser()
-    robots.parse(respuesta.text.splitlines())
-
-    return robots
-
-
-# ==========================================
-# DESCARGA Y LECTURA DEL HTML
-# ==========================================
-
-def obtener_tarjetas(url, robots):
-
-    # Verificar las reglas de acceso
-    if not robots.can_fetch(AGENTE, url):
-        print("Acceso no permitido por robots.txt.")
-        return []
-
-    try:
-        # Pausa para limitar la frecuencia de solicitudes
-        time.sleep(PAUSA_SEGUNDOS)
-
-        # Solicitar el contenido de la página
-        respuesta = requests.get(
-            url,
-            headers={"User-Agent": AGENTE},
-            timeout=TIMEOUT
-        )
-
-        respuesta.raise_for_status()
-
-        print("Código HTTP:", respuesta.status_code)
-        print("URL final:", respuesta.url)
-
-        # Interpretar el HTML
-        soup = BeautifulSoup(
-            respuesta.text,
-            "html.parser"
-        )
-
-        # Identificar las tarjetas inmobiliarias
-        tarjetas = soup.select(
-            "li.ui-search-layout__item"
-        )
-
-        return tarjetas
-
-    except requests.RequestException as error:
-        print(f"Error al descargar la página: {error}")
-        return []
-
-
-# ==========================================
-# EXTRACCIÓN DE DATOS INMOBILIARIOS
-# ==========================================
-
 def extraer_texto(elemento, selector):
 
     encontrado = elemento.select_one(selector)
@@ -244,7 +145,6 @@ def extraer_texto(elemento, selector):
         return encontrado.get_text(" ", strip=True)
 
     return None
-
 
 def extraer_publicaciones(
     tarjetas,
@@ -359,182 +259,223 @@ def extraer_publicaciones(
 
     return list(publicaciones.values())
 
+# Control incremental de solicitudes y almacenamiento
+TIMEOUT = 25
+MAX_REDIRECCIONES = 4
 
 
-# ==========================================
-# EJECUCIÓN PRINCIPAL DEL SCRAPER
-# ==========================================
-
-if __name__ == "__main__":
-
-    # Cargar las reglas de acceso una sola vez
-    robots = cargar_reglas_robots()
-
-    if robots is None:
-        print("No se pudo verificar robots.txt.")
-
-    else:
-
-        # Recorrer las configuraciones de búsqueda
-        for busqueda in BUSQUEDAS:
-
-            # Procesar solamente las categorías pendientes
-            # de la Región Metropolitana
-            if not (
-                busqueda["tipo_propiedad"] in {
-                    "oficina", "comercial", "sitio"
-                }
-                and busqueda["ubicacion"] == "metropolitana"
-            ):
+def indice_existentes(carpeta: Path) -> set[str]:
+    """Lee IDs ya guardados en JSON, sin modificar ningún archivo."""
+    ids = set()
+    if not carpeta.exists():
+        return ids
+    archivos = sorted(carpeta.glob('*.json'))
+    for ruta in archivos:
+        try:
+            with ruta.open(encoding='utf-8') as archivo:
+                datos = json.load(archivo)
+            if not isinstance(datos, list):
                 continue
+            for fila in datos:
+                if isinstance(fila, dict):
+                    identificador = fila.get('id') or fila.get('id_publicacion')
+                    if identificador is not None:
+                        ids.add(str(identificador))
+        except (OSError, ValueError, TypeError) as error:
+            print(f'ADVERTENCIA: no se pudo leer {ruta.name}: {error}')
+    print(f'Publicaciones históricas identificadas: {len(ids)}')
+    return ids
 
-            tipo_propiedad = busqueda["tipo_propiedad"]
-            ubicacion = busqueda["ubicacion"]
-            modalidad = busqueda.get("modalidad")
-            max_paginas = busqueda["max_paginas"]
 
-            print("\n========================================")
-            print("NUEVA BÚSQUEDA")
-            print("========================================")
-            print("Tipo:", tipo_propiedad)
-            print("Ubicación:", ubicacion)
-            print("Modalidad:", modalidad)
-            print("Máximo de páginas:", max_paginas)
+def guardar_atomico(ruta: Path, filas: dict[str, dict]) -> None:
+    """Guardado temporal + reemplazo, para no dejar JSON truncados."""
+    temporal = ruta.with_suffix('.json.tmp')
+    with temporal.open('w', encoding='utf-8') as archivo:
+        json.dump(list(filas.values()), archivo, ensure_ascii=False, indent=2)
+    temporal.replace(ruta)
 
-            # Reiniciar los registros para cada búsqueda
-            registros = {}
 
-            for pagina in range(1, max_paginas + 1):
+def dominio_permitido(url: str) -> bool:
+    """Evita seguir redirecciones a dominios ajenos al sitio."""
+    host = (urlparse(url).hostname or '').lower()
+    return host == 'portalinmobiliario.com' or host.endswith('.portalinmobiliario.com')
 
-                print(f"\n=== PROCESANDO PÁGINA {pagina} ===")
 
-                # Construir URL según la configuración
-                url = construir_url(
-                    pagina=pagina,
-                    tipo_propiedad=tipo_propiedad,
-                    ubicacion=ubicacion,
-                    modalidad=modalidad
-                )
+class AccesoResponsable:
+    def __init__(self, pausa: float) -> None:
+        self.session = requests.Session()
+        self.session.headers.update({'User-Agent': AGENTE, 'Accept-Language': 'es-CL,es;q=0.8'})
+        self.pausa = max(5.0, pausa)
+        self.robots: dict[str, RobotFileParser | None] = {}
+        self.ultima_solicitud: float | None = None
 
-                # Obtener tarjetas HTML
-                tarjetas = obtener_tarjetas(url, robots)
+    def comprobar_robots(self, url: str) -> tuple[bool, float]:
+        if not dominio_permitido(url):
+            print(f'URL ajena al portal: {url}. No se consultará.')
+            return False, self.pausa
 
-                if not tarjetas:
-                    print("No se encontraron tarjetas.")
-                    break
+        parsed = urlparse(url)
+        raiz = f'{parsed.scheme}://{parsed.netloc}'
+        if raiz not in self.robots:
+            robots_url = f'{raiz}/robots.txt'
+            try:
+                respuesta = self.session.get(robots_url, timeout=TIMEOUT, allow_redirects=False)
+                respuesta.raise_for_status()
+                if respuesta.status_code in (301, 302, 307, 308):
+                    raise ValueError('robots.txt redirigido; verificarlo manualmente')
+                parser = RobotFileParser()
+                parser.parse(respuesta.text.splitlines())
+                self.robots[raiz] = parser
+            except (requests.RequestException, ValueError) as error:
+                print(f'No se pudo verificar {robots_url}: {error}. Se omite el dominio.')
+                self.robots[raiz] = None
 
-                # Extraer publicaciones
-                publicaciones = extraer_publicaciones(
-                    tarjetas=tarjetas,
-                    numero_pagina=pagina,
-                    tipo_propiedad=tipo_propiedad,
-                    ubicacion_busqueda=ubicacion,
-                    modalidad=modalidad
-                )
+        reglas = self.robots[raiz]
+        if reglas is None:
+            return False, self.pausa
+        autorizado = reglas.can_fetch(AGENTE, url)
+        demora = reglas.crawl_delay(AGENTE) or reglas.crawl_delay('*') or 0
+        return autorizado, max(self.pausa, float(demora))
 
-                if not publicaciones:
-                    print("No se encontraron publicaciones válidas.")
-                    break
+    def leer_html(self, url: str) -> str | None:
+        for paso in range(MAX_REDIRECCIONES + 1):
+            autorizado, pausa = self.comprobar_robots(url)
+            if not autorizado:
+                print(f'OMITIDO por robots.txt / dominio: {url}')
+                return None
+            if self.ultima_solicitud is not None:
+                espera = pausa - (time.monotonic() - self.ultima_solicitud)
+                if espera > 0:
+                    time.sleep(espera)
+            try:
+                respuesta = self.session.get(url, timeout=TIMEOUT, allow_redirects=False)
+            except requests.RequestException as error:
+                print(f'Error de red: {error}. Se detiene esta búsqueda.')
+                return None
+            finally:
+                self.ultima_solicitud = time.monotonic()
 
-                # Eliminar duplicados dentro de la búsqueda
-                nuevos = 0
-
-                for publicacion in publicaciones:
-
-                    id_publicacion = publicacion["id"]
-
-                    if id_publicacion not in registros:
-                        registros[id_publicacion] = publicacion
-                        nuevos += 1
-
-                print("Publicaciones extraídas:", len(publicaciones))
-                print("Publicaciones nuevas:", nuevos)
-                print("Total acumulado:", len(registros))
-
-                if nuevos == 0:
-                    print("No hay registros nuevos.")
-                    break
-
-            # ==========================================
-            # ALMACENAMIENTO DE LA BÚSQUEDA
-            # ==========================================
-
-            dataset = list(registros.values())
-
-            if not dataset:
-                print("No hay datos para almacenar.")
+            if respuesta.status_code in (301, 302, 303, 307, 308):
+                destino = urljoin(url, respuesta.headers.get('Location', ''))
+                if not destino or destino == url:
+                    print('Redirección inválida o circular.')
+                    return None
+                url = destino
                 continue
+            if respuesta.status_code in (403, 429):
+                print(f'Acceso restringido HTTP {respuesta.status_code}. Se detiene para respetar el sitio.')
+                raise PermissionError(f'HTTP {respuesta.status_code} en {url}')
+            if respuesta.status_code != 200:
+                print(f'HTTP {respuesta.status_code}; se detiene esta búsqueda.')
+                return None
+            if 'html' not in respuesta.headers.get('Content-Type', '').lower():
+                print('Respuesta sin contenido HTML; se detiene esta búsqueda.')
+                return None
+            return respuesta.text
 
-            # Omitir almacenamiento durante las pruebas
-            if not GUARDAR_JSON:
-                print("\n=== MODO DE PRUEBA ===")
-                print("Tipo de propiedad:", tipo_propiedad)
-                print("Ubicación:", ubicacion)
-                print("Publicaciones únicas:", len(dataset))
-                print("No se generó ningún archivo JSON.")
+        print('Demasiadas redirecciones. Se omite la página.')
+        return None
 
-                # Inspeccionar las primeras cinco publicaciones
-                print("\n=== MUESTRA DE PUBLICACIONES ===")
 
-                for publicacion in dataset[:5]:
-                    print("-" * 45)
-                    print("ID:", publicacion["id"])
-                    print("Título:", publicacion["titulo"])
-                    print("Precio:", publicacion["precio_actual"])
-                    print("Ubicación:", publicacion["ubicacion"])
-                    print("Atributos:", publicacion["atributos"])
-                    print("Tipo de anuncio:", publicacion["tipo_anuncio"])
-                    print("Precio desde:", publicacion["precio_es_desde"])
-                    print("Unidades disponibles:", publicacion["unidades_disponibles"])
+def ejecutar(max_paginas: int, pausa: float, solo_rm: bool, max_busquedas: int | None) -> int:
+    if not URL_BASE.startswith('https://'):
+        raise RuntimeError('URL_BASE debe ser HTTPS.')
 
-                print("\n=== INSPECCIÓN DE TARJETAS HTML ===")
+    busquedas = [b for b in BUSQUEDAS if not solo_rm or b['ubicacion'] == 'metropolitana']
+    if max_busquedas is not None:
+        busquedas = busquedas[:max_busquedas]
 
-                for numero, tarjeta in enumerate(tarjetas[:5], start=1):
+    RUTA_DATOS.mkdir(parents=True, exist_ok=True)
+    ids_vistos = indice_existentes(RUTA_DATOS)
+    acceso = AccesoResponsable(pausa)
+    marca = datetime.now(timezone.utc).strftime('%Y%m%d_%H%M%SZ')
+    total_nuevos = 0
 
-                    texto_completo = tarjeta.get_text(
-                        " | ",
-                        strip=True
-                    )
+    print(f'Búsquedas configuradas: {len(busquedas)}')
+    print('Los JSON existentes y el Data Warehouse permanecerán intactos.')
+    print('Ctrl+C detiene el proceso; los avances se guardan después de cada página.')
 
-                    print(f"\n--- TARJETA {numero} ---")
-                    print(texto_completo[:800])
-                continue
+    for numero_busqueda, busqueda in enumerate(busquedas, start=1):
+        tipo = busqueda['tipo_propiedad']
+        ubicacion = busqueda['ubicacion']
+        modalidad = busqueda.get('modalidad')
+        nombre_modalidad = modalidad or 'sin_modalidad'
+        nombre = f'portal_ampliado_venta_{tipo}_{ubicacion}_{nombre_modalidad}_{marca}.json'
+        ruta = RUTA_DATOS / re.sub(r'[^a-zA-Z0-9_.-]', '_', nombre)
+        registros: dict[str, dict] = {}
+        pagina_limite = max_paginas
 
-            RUTA_DATOS.mkdir(
-                parents=True,
-                exist_ok=True
-            )
+        print(f'\n[{numero_busqueda}/{len(busquedas)}] {tipo} · {ubicacion} · {nombre_modalidad}')
+        paginas_repetidas: set[tuple[str, ...]] = set()
 
-            fecha_archivo = datetime.now(
-                timezone.utc
-            ).strftime("%Y%m%d_%H%M%S")
+        for pagina in range(1, pagina_limite + 1):
+            url = construir_url(pagina, tipo, ubicacion, modalidad)
+            try:
+                html = acceso.leer_html(url)
+            except PermissionError:
+                # Restricciones de acceso: terminar la ejecución completa.
+                print('Ejecución detenida por restricción de acceso.')
+                print(f'Nuevos registros guardados hasta ahora: {total_nuevos}')
+                return 2
+            if html is None:
+                break
 
-            # Identificar si se aplicó una modalidad
-            nombre_modalidad = modalidad or "sin_modalidad"
+            tarjetas = BeautifulSoup(html, 'html.parser').select('li.ui-search-layout__item')
+            if not tarjetas:
+                print('Sin tarjetas: puede no haber resultados o haber cambiado el HTML. Se detiene la búsqueda.')
+                break
+            filas = extraer_publicaciones(tarjetas, pagina, tipo, ubicacion, modalidad)
+            if not filas:
+                print('No se pudieron extraer publicaciones válidas. Se detiene la búsqueda.')
+                break
+            firma = tuple(str(f['id']) for f in filas if 'id' in f)
+            if firma in paginas_repetidas:
+                print('La página repite publicaciones de otra página; se detiene esta búsqueda.')
+                break
+            paginas_repetidas.add(firma)
 
-            nombre_archivo = (
-                f"portal_{OPERACION}_{tipo_propiedad}_"
-                f"{ubicacion}_{nombre_modalidad}_"
-                f"{fecha_archivo}_utc.json"
-            )
+            nuevas_pagina = 0
+            for fila in filas:
+                identificador = str(fila.get('id', ''))
+                if identificador and identificador not in ids_vistos:
+                    ids_vistos.add(identificador)
+                    registros[identificador] = fila
+                    nuevas_pagina += 1
+                    total_nuevos += 1
 
-            ruta_archivo = RUTA_DATOS / nombre_archivo
+            if registros:
+                guardar_atomico(ruta, registros)
+            print(f'Página {pagina}/{pagina_limite}: {len(filas)} extraídas, '
+                  f'{nuevas_pagina} nuevas; total de esta búsqueda: {len(registros)}')
 
-            with open(
-                ruta_archivo,
-                "w",
-                encoding="utf-8"
-            ) as archivo:
+        print(f'Guardadas {len(registros)} nuevas publicaciones en: {ruta.name}' if registros
+              else 'Sin publicaciones nuevas en esta búsqueda; no se generó archivo.')
 
-                json.dump(
-                    dataset,
-                    archivo,
-                    ensure_ascii=False,
-                    indent=2
-                )
+    print(f'\nFIN. Nuevas publicaciones guardadas: {total_nuevos}.')
+    print('Nota: no ejecutar todavía cargar_dw_publicaciones.py con estos lotes; requiere adaptación.')
+    return 0
 
-            print("\n=== RESULTADO DE LA BÚSQUEDA ===")
-            print("Publicaciones únicas:", len(dataset))
-            print("Archivo guardado:", ruta_archivo)
 
-        print("\n=== FIN DE LA EJECUCIÓN ===")
+def main() -> int:
+    parser = argparse.ArgumentParser(description='Scraper incremental y responsable del Portal Inmobiliario')
+    parser.add_argument('--max-paginas', type=int, default=12,
+                        help='Máximo de páginas por búsqueda (predeterminado: 12)')
+    parser.add_argument('--pausa', type=float, default=8.0,
+                        help='Segundos entre solicitudes, mínimo 5 (predeterminado: 8)')
+    parser.add_argument('--solo-rm', action='store_true',
+                        help='Solo búsquedas de la Región Metropolitana')
+    parser.add_argument('--max-busquedas', type=int, default=None,
+                        help='Limitar el número de búsquedas para una prueba inicial')
+    argumentos = parser.parse_args()
+    if argumentos.max_paginas < 1 or (argumentos.max_busquedas is not None and argumentos.max_busquedas < 1):
+        parser.error('Los límites deben ser mayores o iguales a 1.')
+    try:
+        return ejecutar(argumentos.max_paginas, argumentos.pausa,
+                        argumentos.solo_rm, argumentos.max_busquedas)
+    except KeyboardInterrupt:
+        print('\nDetenido por el usuario. Los archivos ya guardados se conservan.')
+        return 130
+
+
+if __name__ == '__main__':
+    sys.exit(main())
