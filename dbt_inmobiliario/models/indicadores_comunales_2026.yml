@@ -1,0 +1,28 @@
+version: 2
+
+models:
+  - name: indicadores_comunales_2026
+    description: >
+      Indicadores comunales integrados para 2026. Oferta publicada recopilada en 2026,
+      predios del SII 2026-S1 y permisos ChileHub 2026, provisionales.
+      Un registro por comuna; no sumar las distintas métricas entre sí.
+    columns:
+      - name: id_ubicacion
+        data_tests:
+          - unique
+          - not_null
+      - name: cut
+        data_tests:
+          - unique
+          - not_null
+      - name: predios_total
+        data_tests:
+          - not_null
+      - name: unidades_autorizadas_2026
+        data_tests:
+          - not_null
+      - name: estado_permisos_2026
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['provisional']

@@ -1,0 +1,23 @@
+{
+  "fuente": "Banco Central de Chile",
+  "archivo_original": "01_BancoCentral_Tasas_Flujos_Vivienda.xlsx",
+  "frecuencia": "mensual",
+  "periodo_inicial": "2002-01-01",
+  "periodo_final": "2026-09-01",
+  "observaciones": 297,
+  "tasas_disponibles": 297,
+  "flujos_disponibles": 153,
+  "flujos_ausentes": 144,
+  "series_del_excel": [
+    {
+      "codigo": "F022.VIV.TIP.MA03.UF.Z.M",
+      "descripcion_original": "Tasa de interés promedio créditos de vivienda , más de 3 años (UF)"
+    },
+    {
+      "codigo": "F022.VIV.FLU.MA03.UF.Z.M",
+      "descripcion_original": "Flujo de tasa de interés promedio créditos de vivienda , más de 3 años reajustable UF, expresados en pesos"
+    }
+  ],
+  "nota_unidad_flujo": "La escala/unidad exacta del valor de flujo debe corroborarse en la metodología oficial antes de interpretarlo.",
+  "nota_faltantes": "Los flujos ausentes se conservan como celdas vacías; no se imputan con cero."
+}
