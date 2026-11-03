@@ -45,3 +45,21 @@ tzdata==2026.5
 urllib3==2.8.0
 websocket-client==1.9.2
 wsproto==1.3.2
+
+# Dependencias directas adicionales del proyecto Big Data
+openpyxl
+pyarrow
+trino
+
+# Procesamiento, transformación y modelos analíticos
+polars
+pyspark
+dbt-postgres
+
+# NLP exploratorio del notebook procesamiento_nlp.ipynb
+transformers
+torch
+tqdm
+
+# Kernel de notebooks en VS Code/Jupyter
+ipykernel
