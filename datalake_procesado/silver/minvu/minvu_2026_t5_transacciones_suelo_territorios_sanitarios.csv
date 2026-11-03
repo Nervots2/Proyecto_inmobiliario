@@ -1,0 +1,18 @@
+﻿fuente;tabla;pagina_pdf;periodo_referencia;nivel_geografico;codigo_region;region;transacciones_fuera_to_cantidad;valor_promedio_fuera_to_uf_m2;transacciones_dentro_to_cantidad;valor_promedio_dentro_to_uf_m2
+MINVU_DT10_2026;5;11;2020-2025;regional;15;arica y parinacota;36.0;1.4;39.0;5.7
+MINVU_DT10_2026;5;11;2020-2025;regional;1;tarapaca;134.0;0.9;88.0;7.7
+MINVU_DT10_2026;5;11;2020-2025;regional;2;antofagasta;45.0;2.0;178.0;4.4
+MINVU_DT10_2026;5;11;2020-2025;regional;3;atacama;349.0;0.5;106.0;2.4
+MINVU_DT10_2026;5;11;2020-2025;regional;4;coquimbo;1620.0;0.4;488.0;3.2
+MINVU_DT10_2026;5;11;2020-2025;regional;5;valparaiso;6465.0;1.4;1682.0;3.5
+MINVU_DT10_2026;5;11;2020-2025;regional;13;metropolitana;973.0;1.2;1963.0;5.6
+MINVU_DT10_2026;5;11;2020-2025;regional;6;ohiggins;1580.0;1.4;901.0;1.8
+MINVU_DT10_2026;5;11;2020-2025;regional;7;maule;1254.0;0.6;555.0;1.8
+MINVU_DT10_2026;5;11;2020-2025;regional;16;nuble;1718.0;0.4;390.0;1.2
+MINVU_DT10_2026;5;11;2020-2025;regional;8;biobio;1752.0;0.6;1274.0;2.7
+MINVU_DT10_2026;5;11;2020-2025;regional;9;la araucania;624.0;0.9;537.0;2.9
+MINVU_DT10_2026;5;11;2020-2025;regional;14;los rios;278.0;0.9;110.0;1.8
+MINVU_DT10_2026;5;11;2020-2025;regional;10;los lagos;765.0;0.7;442.0;2.2
+MINVU_DT10_2026;5;11;2020-2025;regional;11;aysen;73.0;0.6;53.0;3.1
+MINVU_DT10_2026;5;11;2020-2025;regional;12;magallanes;112.0;1.8;145.0;2.5
+MINVU_DT10_2026;5;11;2020-2025;nacional;;nacional;17778.0;1.0;8951.0;3.4

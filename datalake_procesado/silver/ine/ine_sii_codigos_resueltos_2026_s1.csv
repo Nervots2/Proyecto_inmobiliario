@@ -1,0 +1,347 @@
+﻿region_sii,comuna_sii,periodo_sii,predios_total_sii,codigo_region,codigo_comuna,estado_integracion,nombre_referencia,procedencia_codigo,geometria_ine_2024
+Arica y Parinacota,Arica,2026-S1,78033,15,15101,validado_ine2024,ARICA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Arica y Parinacota,Camarones,2026-S1,902,15,15102,validado_ine2024,CAMARONES,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Arica y Parinacota,Putre,2026-S1,1304,15,15201,validado_ine2024,PUTRE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Arica y Parinacota,General Lagos,2026-S1,221,15,15202,validado_ine2024,GENERAL LAGOS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Tarapacá,Iquique,2026-S1,94020,01,01101,validado_ine2024,IQUIQUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Tarapacá,Alto Hospicio,2026-S1,35692,01,01107,validado_ine2024,ALTO HOSPICIO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Tarapacá,Pozo Almonte,2026-S1,7620,01,01401,validado_ine2024,POZO ALMONTE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Tarapacá,Camiña,2026-S1,636,01,01402,validado_ine2024,CAMIÑA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Tarapacá,Colchane,2026-S1,729,01,01403,validado_ine2024,COLCHANE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Tarapacá,Huara,2026-S1,2114,01,01404,validado_ine2024,HUARA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Tarapacá,Pica,2026-S1,2813,01,01405,validado_ine2024,PICA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Antofagasta,Antofagasta,2026-S1,177786,02,02101,validado_ine2024,ANTOFAGASTA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Antofagasta,Mejillones,2026-S1,5855,02,02102,validado_ine2024,MEJILLONES,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Antofagasta,Sierra Gorda,2026-S1,1207,02,02103,validado_ine2024,SIERRA GORDA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Antofagasta,Taltal,2026-S1,4481,02,02104,validado_ine2024,TALTAL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Antofagasta,Calama,2026-S1,56208,02,02201,validado_ine2024,CALAMA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Antofagasta,Ollagüe,2026-S1,171,02,02202,validado_ine2024,OLLAGÜE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Antofagasta,San Pedro de Atacama,2026-S1,3025,02,02203,validado_ine2024,SAN PEDRO DE ATACAMA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Antofagasta,Tocopilla,2026-S1,10185,02,02301,validado_ine2024,TOCOPILLA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Antofagasta,María Elena,2026-S1,597,02,02302,validado_ine2024,MARÍA ELENA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Atacama,Copiapó,2026-S1,65222,03,03101,validado_ine2024,COPIAPÓ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Atacama,Caldera,2026-S1,10331,03,03102,validado_ine2024,CALDERA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Atacama,Tierra Amarilla,2026-S1,3746,03,03103,validado_ine2024,TIERRA AMARILLA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Atacama,Chañaral,2026-S1,5650,03,03201,validado_ine2024,CHAÑARAL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Atacama,Diego de Almagro,2026-S1,3907,03,03202,validado_ine2024,DIEGO DE ALMAGRO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Atacama,Vallenar,2026-S1,21056,03,03301,validado_ine2024,VALLENAR,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Atacama,Alto del Carmen,2026-S1,1480,03,03302,validado_ine2024,ALTO DEL CARMEN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Atacama,Freirina,2026-S1,3111,03,03303,validado_ine2024,FREIRINA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Atacama,Huasco,2026-S1,5020,03,03304,validado_ine2024,HUASCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Coquimbo,La Serena,2026-S1,136719,04,04101,validado_ine2024,LA SERENA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Coquimbo,Coquimbo,2026-S1,124582,04,04102,validado_ine2024,COQUIMBO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Coquimbo,Andacollo,2026-S1,4757,04,04103,validado_ine2024,ANDACOLLO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Coquimbo,La Higuera,2026-S1,4203,04,04104,validado_ine2024,LA HIGUERA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Coquimbo,Paiguano,2026-S1,2564,04,04105,codigo_oficial_conciliado,Paihuano / Paiguano,"SUBDERE, decreto 1381 (CUT 04105)",no_verificada_en_capa
+Coquimbo,Vicuña,2026-S1,12467,04,04106,validado_ine2024,VICUÑA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Coquimbo,Illapel,2026-S1,12048,04,04201,validado_ine2024,ILLAPEL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Coquimbo,Canela,2026-S1,5328,04,04202,validado_ine2024,CANELA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Coquimbo,Los Vilos,2026-S1,14589,04,04203,validado_ine2024,LOS VILOS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Coquimbo,Salamanca,2026-S1,11017,04,04204,validado_ine2024,SALAMANCA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Coquimbo,Ovalle,2026-S1,53022,04,04301,validado_ine2024,OVALLE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Coquimbo,Combarbalá,2026-S1,6939,04,04302,validado_ine2024,COMBARBALÁ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Coquimbo,Monte Patria,2026-S1,12229,04,04303,validado_ine2024,MONTE PATRIA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Coquimbo,Punitaqui,2026-S1,4525,04,04304,validado_ine2024,PUNITAQUI,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Coquimbo,Río Hurtado,2026-S1,2263,04,04305,validado_ine2024,RÍO HURTADO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Valparaíso,2026-S1,130182,05,05101,validado_ine2024,VALPARAÍSO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Casablanca,2026-S1,15336,05,05102,validado_ine2024,CASABLANCA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Concón,2026-S1,51071,05,05103,validado_ine2024,CONCÓN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Juan Fernández,2026-S1,459,05,05104,validado_ine2024,JUAN FERNÁNDEZ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Puchuncaví,2026-S1,21006,05,05105,validado_ine2024,PUCHUNCAVÍ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Quintero,2026-S1,20273,05,05107,validado_ine2024,QUINTERO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Viña del Mar,2026-S1,235908,05,05109,validado_ine2024,VIÑA DEL MAR,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Isla de Pascua,2026-S1,455,05,05201,validado_ine2024,ISLA DE PASCUA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Los Andes,2026-S1,28224,05,05301,validado_ine2024,LOS ANDES,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Calle Larga,2026-S1,6141,05,05302,validado_ine2024,CALLE LARGA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Rinconada,2026-S1,5210,05,05303,validado_ine2024,RINCONADA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,San Esteban,2026-S1,8360,05,05304,validado_ine2024,SAN ESTEBAN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,La Ligua,2026-S1,17587,05,05401,validado_ine2024,LA LIGUA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Cabildo,2026-S1,6598,05,05402,validado_ine2024,CABILDO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Papudo,2026-S1,11322,05,05403,validado_ine2024,PAPUDO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Petorca,2026-S1,4142,05,05404,validado_ine2024,PETORCA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Zapallar,2026-S1,9897,05,05405,validado_ine2024,ZAPALLAR,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Quillota,2026-S1,38563,05,05501,validado_ine2024,QUILLOTA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Calera,2026-S1,18301,05,05502,validado_ine2024,CALERA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Hijuelas,2026-S1,5467,05,05503,validado_ine2024,HIJUELAS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,La Cruz,2026-S1,9512,05,05504,validado_ine2024,LA CRUZ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Nogales,2026-S1,6914,05,05506,validado_ine2024,NOGALES,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,San Antonio,2026-S1,35314,05,05601,validado_ine2024,SAN ANTONIO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Algarrobo,2026-S1,29877,05,05602,validado_ine2024,ALGARROBO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Cartagena,2026-S1,12736,05,05603,validado_ine2024,CARTAGENA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,El Quisco,2026-S1,17258,05,05604,validado_ine2024,EL QUISCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,El Tabo,2026-S1,17137,05,05605,validado_ine2024,EL TABO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Santo Domingo,2026-S1,10949,05,05606,validado_ine2024,SANTO DOMINGO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,San Felipe,2026-S1,30879,05,05701,validado_ine2024,SAN FELIPE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Catemu,2026-S1,5303,05,05702,validado_ine2024,CATEMU,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Llaillay,2026-S1,9440,05,05703,validado_ine2024,LLAILLAY,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Panquehue,2026-S1,2457,05,05704,validado_ine2024,PANQUEHUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Putaendo,2026-S1,6123,05,05705,validado_ine2024,PUTAENDO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Santa María,2026-S1,5825,05,05706,validado_ine2024,SANTA MARÍA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Quilpué,2026-S1,68104,05,05801,validado_ine2024,QUILPUÉ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Limache,2026-S1,23907,05,05802,validado_ine2024,LIMACHE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Olmué,2026-S1,8911,05,05803,validado_ine2024,OLMUÉ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Valparaíso,Villa Alemana,2026-S1,56378,05,05804,validado_ine2024,VILLA ALEMANA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Santiago,2026-S1,421154,13,13101,validado_ine2024,SANTIAGO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Cerrillos,2026-S1,32858,13,13102,validado_ine2024,CERRILLOS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Cerro Navia,2026-S1,32108,13,13103,validado_ine2024,CERRO NAVIA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Conchalí,2026-S1,36074,13,13104,validado_ine2024,CONCHALÍ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,El Bosque,2026-S1,44394,13,13105,validado_ine2024,EL BOSQUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Estación Central,2026-S1,97083,13,13106,validado_ine2024,ESTACIÓN CENTRAL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Huechuraba,2026-S1,46281,13,13107,validado_ine2024,HUECHURABA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Independencia,2026-S1,60972,13,13108,validado_ine2024,INDEPENDENCIA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,La Cisterna,2026-S1,57645,13,13109,validado_ine2024,LA CISTERNA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,La Florida,2026-S1,184659,13,13110,validado_ine2024,LA FLORIDA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,La Granja,2026-S1,31862,13,13111,validado_ine2024,LA GRANJA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,La Pintana,2026-S1,50730,13,13112,validado_ine2024,LA PINTANA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,La Reina,2026-S1,41362,13,13113,validado_ine2024,LA REINA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Las Condes,2026-S1,393151,13,13114,validado_ine2024,LAS CONDES,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Lo Barnechea,2026-S1,74645,13,13115,validado_ine2024,LO BARNECHEA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Lo Espejo,2026-S1,24010,13,13116,validado_ine2024,LO ESPEJO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Lo Prado,2026-S1,25655,13,13117,validado_ine2024,LO PRADO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Macul,2026-S1,77872,13,13118,validado_ine2024,MACUL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Maipú,2026-S1,172295,13,13119,validado_ine2024,MAIPÚ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Ñuñoa,2026-S1,263277,13,13120,validado_ine2024,ÑUÑOA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Pedro Aguirre Cerda,2026-S1,29234,13,13121,validado_ine2024,PEDRO AGUIRRE CERDA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Peñalolén,2026-S1,69621,13,13122,validado_ine2024,PEÑALOLÉN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Providencia,2026-S1,218019,13,13123,validado_ine2024,PROVIDENCIA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Pudahuel,2026-S1,70942,13,13124,validado_ine2024,PUDAHUEL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Quilicura,2026-S1,68972,13,13125,validado_ine2024,QUILICURA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Quinta Normal,2026-S1,48469,13,13126,validado_ine2024,QUINTA NORMAL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Recoleta,2026-S1,56175,13,13127,validado_ine2024,RECOLETA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Renca,2026-S1,45179,13,13128,validado_ine2024,RENCA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,San Joaquín,2026-S1,39256,13,13129,validado_ine2024,SAN JOAQUÍN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,San Miguel,2026-S1,117213,13,13130,validado_ine2024,SAN MIGUEL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,San Ramón,2026-S1,20345,13,13131,validado_ine2024,SAN RAMÓN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Vitacura,2026-S1,114378,13,13132,validado_ine2024,VITACURA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Puente Alto,2026-S1,186785,13,13201,validado_ine2024,PUENTE ALTO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Pirque,2026-S1,7002,13,13202,validado_ine2024,PIRQUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,San José de Maipo,2026-S1,6282,13,13203,validado_ine2024,SAN JOSÉ DE MAIPO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Colina,2026-S1,55207,13,13301,validado_ine2024,COLINA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Lampa,2026-S1,40005,13,13302,validado_ine2024,LAMPA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Tiltil,2026-S1,5436,13,13303,validado_ine2024,TILTIL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,San Bernardo,2026-S1,100154,13,13401,validado_ine2024,SAN BERNARDO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Buin,2026-S1,37510,13,13402,validado_ine2024,BUIN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Calera de Tango,2026-S1,6919,13,13403,validado_ine2024,CALERA DE TANGO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Paine,2026-S1,22167,13,13404,validado_ine2024,PAINE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Melipilla,2026-S1,40568,13,13501,validado_ine2024,MELIPILLA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Alhué,2026-S1,1487,13,13502,validado_ine2024,ALHUÉ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Curacaví,2026-S1,13066,13,13503,validado_ine2024,CURACAVÍ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,María Pinto,2026-S1,3733,13,13504,validado_ine2024,MARÍA PINTO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,San Pedro,2026-S1,1520,13,13505,validado_ine2024,SAN PEDRO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Talagante,2026-S1,24335,13,13601,validado_ine2024,TALAGANTE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,El Monte,2026-S1,10962,13,13602,validado_ine2024,EL MONTE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Isla de Maipo,2026-S1,12117,13,13603,validado_ine2024,ISLA DE MAIPO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Padre Hurtado,2026-S1,28716,13,13604,validado_ine2024,PADRE HURTADO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Metropolitana,Peñaflor,2026-S1,30266,13,13605,validado_ine2024,PEÑAFLOR,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Rancagua,2026-S1,112567,06,06101,validado_ine2024,RANCAGUA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Codegua,2026-S1,4343,06,06102,validado_ine2024,CODEGUA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Coinco,2026-S1,2627,06,06103,validado_ine2024,COINCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Coltauco,2026-S1,7216,06,06104,validado_ine2024,COLTAUCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Doñihue,2026-S1,7212,06,06105,validado_ine2024,DOÑIHUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Graneros,2026-S1,12231,06,06106,validado_ine2024,GRANEROS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Las Cabras,2026-S1,11865,06,06107,validado_ine2024,LAS CABRAS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Machalí,2026-S1,24746,06,06108,validado_ine2024,MACHALÍ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Malloa,2026-S1,4409,06,06109,validado_ine2024,MALLOA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Mostazal,2026-S1,9629,06,06110,validado_ine2024,MOSTAZAL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Olivar,2026-S1,4486,06,06111,validado_ine2024,OLIVAR,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Peumo,2026-S1,4778,06,06112,validado_ine2024,PEUMO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Pichidegua,2026-S1,6798,06,06113,validado_ine2024,PICHIDEGUA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Quinta de Tilcoco,2026-S1,4924,06,06114,validado_ine2024,QUINTA DE TILCOCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Rengo,2026-S1,24133,06,06115,validado_ine2024,RENGO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Requínoa,2026-S1,10264,06,06116,validado_ine2024,REQUÍNOA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,San Vicente,2026-S1,16884,06,06117,validado_ine2024,SAN VICENTE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Pichilemu,2026-S1,16951,06,06201,validado_ine2024,PICHILEMU,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,La Estrella,2026-S1,5226,06,06202,validado_ine2024,LA ESTRELLA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Litueche,2026-S1,9653,06,06203,validado_ine2024,LITUECHE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Marchihue,2026-S1,6787,06,06204,validado_ine2024,MARCHIHUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Navidad,2026-S1,6185,06,06205,validado_ine2024,NAVIDAD,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Paredones,2026-S1,9410,06,06206,validado_ine2024,PAREDONES,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,San Fernando,2026-S1,33356,06,06301,validado_ine2024,SAN FERNANDO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Chépica,2026-S1,6960,06,06302,validado_ine2024,CHÉPICA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Chimbarongo,2026-S1,13151,06,06303,validado_ine2024,CHIMBARONGO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Lolol,2026-S1,3857,06,06304,validado_ine2024,LOLOL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Nancagua,2026-S1,6906,06,06305,validado_ine2024,NANCAGUA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Palmilla,2026-S1,4982,06,06306,validado_ine2024,PALMILLA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Peralillo,2026-S1,5799,06,06307,validado_ine2024,PERALILLO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Placilla,2026-S1,3122,06,06308,validado_ine2024,PLACILLA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Pumanque,2026-S1,3483,06,06309,validado_ine2024,PUMANQUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+O'Higgins,Santa Cruz,2026-S1,17551,06,06310,validado_ine2024,SANTA CRUZ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Talca,2026-S1,117321,07,07101,validado_ine2024,TALCA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Constitución,2026-S1,18987,07,07102,validado_ine2024,CONSTITUCIÓN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Curepto,2026-S1,3783,07,07103,validado_ine2024,CUREPTO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Empedrado,2026-S1,1391,07,07104,validado_ine2024,EMPEDRADO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Maule,2026-S1,22698,07,07105,validado_ine2024,MAULE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Pelarco,2026-S1,3573,07,07106,validado_ine2024,PELARCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Pencahue,2026-S1,4148,07,07107,validado_ine2024,PENCAHUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Río Claro,2026-S1,4977,07,07108,validado_ine2024,RÍO CLARO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,San Clemente,2026-S1,17946,07,07109,validado_ine2024,SAN CLEMENTE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,San Rafael,2026-S1,3750,07,07110,validado_ine2024,SAN RAFAEL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Cauquenes,2026-S1,24623,07,07201,validado_ine2024,CAUQUENES,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Chanco,2026-S1,3017,07,07202,validado_ine2024,CHANCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Pelluhue,2026-S1,7198,07,07203,validado_ine2024,PELLUHUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Curicó,2026-S1,68284,07,07301,validado_ine2024,CURICÓ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Hualañé,2026-S1,5996,07,07302,validado_ine2024,HUALAÑÉ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Licantén,2026-S1,4386,07,07303,validado_ine2024,LICANTÉN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Molina,2026-S1,19440,07,07304,validado_ine2024,MOLINA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Rauco,2026-S1,4149,07,07305,validado_ine2024,RAUCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Romeral,2026-S1,6317,07,07306,validado_ine2024,ROMERAL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Sagrada Familia,2026-S1,6332,07,07307,validado_ine2024,SAGRADA FAMILIA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Teno,2026-S1,10460,07,07308,validado_ine2024,TENO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Vichuquén,2026-S1,5590,07,07309,validado_ine2024,VICHUQUÉN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Linares,2026-S1,42536,07,07401,validado_ine2024,LINARES,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Colbún,2026-S1,8622,07,07402,validado_ine2024,COLBÚN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Longaví,2026-S1,9300,07,07403,validado_ine2024,LONGAVÍ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Parral,2026-S1,20263,07,07404,validado_ine2024,PARRAL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Retiro,2026-S1,7751,07,07405,validado_ine2024,RETIRO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,San Javier,2026-S1,22722,07,07406,validado_ine2024,SAN JAVIER,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Villa Alegre,2026-S1,7483,07,07407,validado_ine2024,VILLA ALEGRE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Maule,Yerbas Buenas,2026-S1,5981,07,07408,validado_ine2024,YERBAS BUENAS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Concepción,2026-S1,139090,08,08101,validado_ine2024,CONCEPCIÓN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Coronel,2026-S1,49181,08,08102,validado_ine2024,CORONEL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Chiguayante,2026-S1,32194,08,08103,validado_ine2024,CHIGUAYANTE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Florida,2026-S1,6163,08,08104,validado_ine2024,FLORIDA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Hualqui,2026-S1,9861,08,08105,validado_ine2024,HUALQUI,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Lota,2026-S1,14170,08,08106,validado_ine2024,LOTA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Penco,2026-S1,16065,08,08107,validado_ine2024,PENCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,San Pedro de la Paz,2026-S1,68057,08,08108,validado_ine2024,SAN PEDRO DE LA PAZ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Santa Juana,2026-S1,6281,08,08109,validado_ine2024,SANTA JUANA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Talcahuano,2026-S1,50977,08,08110,validado_ine2024,TALCAHUANO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Tomé,2026-S1,24322,08,08111,validado_ine2024,TOMÉ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Hualpén,2026-S1,33349,08,08112,validado_ine2024,HUALPÉN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Lebu,2026-S1,9144,08,08201,validado_ine2024,LEBU,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Arauco,2026-S1,13097,08,08202,validado_ine2024,ARAUCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Cañete,2026-S1,8946,08,08203,validado_ine2024,CAÑETE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Contulmo,2026-S1,1676,08,08204,validado_ine2024,CONTULMO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Curanilahue,2026-S1,9901,08,08205,validado_ine2024,CURANILAHUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Los Álamos,2026-S1,7327,08,08206,validado_ine2024,LOS ÁLAMOS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Tirúa,2026-S1,1816,08,08207,validado_ine2024,TIRÚA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Los Ángeles,2026-S1,83820,08,08301,validado_ine2024,LOS ÁNGELES,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Antuco,2026-S1,2237,08,08302,validado_ine2024,ANTUCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Cabrero,2026-S1,11770,08,08303,validado_ine2024,CABRERO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Laja,2026-S1,7625,08,08304,validado_ine2024,LAJA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Mulchén,2026-S1,8947,08,08305,validado_ine2024,MULCHÉN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Nacimiento,2026-S1,9455,08,08306,validado_ine2024,NACIMIENTO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Negrete,2026-S1,3283,08,08307,validado_ine2024,NEGRETE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Quilaco,2026-S1,1540,08,08308,validado_ine2024,QUILACO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Quilleco,2026-S1,2749,08,08309,validado_ine2024,QUILLECO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,San Rosendo,2026-S1,1182,08,08310,validado_ine2024,SAN ROSENDO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Santa Bárbara,2026-S1,4280,08,08311,validado_ine2024,SANTA BÁRBARA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Tucapel,2026-S1,7819,08,08312,validado_ine2024,TUCAPEL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Yumbel,2026-S1,9512,08,08313,validado_ine2024,YUMBEL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Biobío,Alto Biobío,2026-S1,511,08,08314,validado_ine2024,ALTO BIOBÍO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,Chillán,2026-S1,88766,16,16101,validado_ine2024,CHILLÁN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,Bulnes,2026-S1,9970,16,16102,validado_ine2024,BULNES,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,Cobquecura,2026-S1,3525,16,16202,validado_ine2024,COBQUECURA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,Coelemu,2026-S1,4837,16,16203,validado_ine2024,COELEMU,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,Coihueco,2026-S1,8018,16,16302,validado_ine2024,COIHUECO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,Chillán Viejo,2026-S1,12846,16,16103,validado_ine2024,CHILLÁN VIEJO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,El Carmen,2026-S1,3759,16,16104,validado_ine2024,EL CARMEN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,Ninhue,2026-S1,1722,16,16204,validado_ine2024,NINHUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,Ñiquén,2026-S1,2699,16,16303,validado_ine2024,ÑIQUÉN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,Pemuco,2026-S1,3561,16,16105,validado_ine2024,PEMUCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,Pinto,2026-S1,7401,16,16106,validado_ine2024,PINTO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,Portezuelo,2026-S1,1388,16,16205,validado_ine2024,PORTEZUELO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,Quillón,2026-S1,10867,16,16107,validado_ine2024,QUILLÓN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,Quirihue,2026-S1,5214,16,16201,validado_ine2024,QUIRIHUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,Ránquil,2026-S1,2112,16,16206,validado_ine2024,RÁNQUIL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,San Carlos,2026-S1,20932,16,16301,validado_ine2024,SAN CARLOS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,San Fabián,2026-S1,2085,16,16304,validado_ine2024,SAN FABIÁN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,San Ignacio,2026-S1,5804,16,16108,validado_ine2024,SAN IGNACIO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,San Nicolás,2026-S1,5996,16,16305,validado_ine2024,SAN NICOLÁS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Ñuble,Treguaco,2026-S1,2260,16,16207,codigo_oficial_conciliado,Treguaco / Trehuaco,"INE, libro de codigos ENE 2025 (CUT 16207)",no_verificada_en_capa
+Ñuble,Yungay,2026-S1,7765,16,16109,validado_ine2024,YUNGAY,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Temuco,2026-S1,147165,09,09101,validado_ine2024,TEMUCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Carahue,2026-S1,6092,09,09102,validado_ine2024,CARAHUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Cunco,2026-S1,7763,09,09103,validado_ine2024,CUNCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Curarrehue,2026-S1,3234,09,09104,validado_ine2024,CURARREHUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Freire,2026-S1,5479,09,09105,validado_ine2024,FREIRE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Galvarino,2026-S1,1983,09,09106,validado_ine2024,GALVARINO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Gorbea,2026-S1,5577,09,09107,validado_ine2024,GORBEA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Lautaro,2026-S1,14444,09,09108,validado_ine2024,LAUTARO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Loncoche,2026-S1,10976,09,09109,validado_ine2024,LONCOCHE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Melipeuco,2026-S1,2047,09,09110,validado_ine2024,MELIPEUCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Nueva Imperial,2026-S1,7809,09,09111,validado_ine2024,NUEVA IMPERIAL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Padre Las Casas,2026-S1,19986,09,09112,validado_ine2024,PADRE LAS CASAS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Perquenco,2026-S1,1856,09,09113,validado_ine2024,PERQUENCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Pitrufquén,2026-S1,10232,09,09114,validado_ine2024,PITRUFQUÉN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Pucón,2026-S1,30768,09,09115,validado_ine2024,PUCÓN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Saavedra,2026-S1,2131,09,09116,validado_ine2024,SAAVEDRA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Teodoro Schmidt,2026-S1,3335,09,09117,validado_ine2024,TEODORO SCHMIDT,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Toltén,2026-S1,2395,09,09118,validado_ine2024,TOLTÉN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Vilcún,2026-S1,10264,09,09119,validado_ine2024,VILCÚN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Villarrica,2026-S1,38482,09,09120,validado_ine2024,VILLARRICA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Cholchol,2026-S1,2560,09,09121,validado_ine2024,CHOLCHOL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Angol,2026-S1,22173,09,09201,validado_ine2024,ANGOL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Collipulli,2026-S1,7304,09,09202,validado_ine2024,COLLIPULLI,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Curacautín,2026-S1,9930,09,09203,validado_ine2024,CURACAUTÍN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Ercilla,2026-S1,1846,09,09204,validado_ine2024,ERCILLA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Lonquimay,2026-S1,4341,09,09205,validado_ine2024,LONQUIMAY,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Los Sauces,2026-S1,2180,09,09206,validado_ine2024,LOS SAUCES,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Lumaco,2026-S1,2060,09,09207,validado_ine2024,LUMACO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Purén,2026-S1,3565,09,09208,validado_ine2024,PURÉN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Renaico,2026-S1,3697,09,09209,validado_ine2024,RENAICO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Traiguén,2026-S1,6686,09,09210,validado_ine2024,TRAIGUÉN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+La Araucanía,Victoria,2026-S1,12094,09,09211,validado_ine2024,VICTORIA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Ríos,Valdivia,2026-S1,66138,14,14101,validado_ine2024,VALDIVIA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Ríos,Corral,2026-S1,2654,14,14102,validado_ine2024,CORRAL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Ríos,Lanco,2026-S1,6074,14,14103,validado_ine2024,LANCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Ríos,Los Lagos,2026-S1,7288,14,14104,validado_ine2024,LOS LAGOS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Ríos,Máfil,2026-S1,2398,14,14105,validado_ine2024,MÁFIL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Ríos,Mariquina,2026-S1,7791,14,14106,validado_ine2024,MARIQUINA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Ríos,Paillaco,2026-S1,6522,14,14107,validado_ine2024,PAILLACO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Ríos,Panguipulli,2026-S1,13962,14,14108,validado_ine2024,PANGUIPULLI,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Ríos,La Unión,2026-S1,15506,14,14201,validado_ine2024,LA UNIÓN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Ríos,Futrono,2026-S1,6044,14,14202,validado_ine2024,FUTRONO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Ríos,Lago Ranco,2026-S1,4783,14,14203,validado_ine2024,LAGO RANCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Ríos,Río Bueno,2026-S1,12064,14,14204,validado_ine2024,RÍO BUENO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Puerto Montt,2026-S1,117019,10,10101,validado_ine2024,PUERTO MONTT,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Calbuco,2026-S1,9244,10,10102,validado_ine2024,CALBUCO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Cochamó,2026-S1,2697,10,10103,validado_ine2024,COCHAMÓ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Fresia,2026-S1,5738,10,10104,validado_ine2024,FRESIA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Frutillar,2026-S1,14160,10,10105,validado_ine2024,FRUTILLAR,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Los Muermos,2026-S1,8200,10,10106,validado_ine2024,LOS MUERMOS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Llanquihue,2026-S1,7932,10,10107,validado_ine2024,LLANQUIHUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Maullín,2026-S1,7797,10,10108,validado_ine2024,MAULLÍN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Puerto Varas,2026-S1,35776,10,10109,validado_ine2024,PUERTO VARAS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Castro,2026-S1,17733,10,10201,validado_ine2024,CASTRO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Ancud,2026-S1,23756,10,10202,validado_ine2024,ANCUD,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Chonchi,2026-S1,7807,10,10203,validado_ine2024,CHONCHI,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Curaco de Vélez,2026-S1,1108,10,10204,validado_ine2024,CURACO DE VÉLEZ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Dalcahue,2026-S1,5602,10,10205,validado_ine2024,DALCAHUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Puqueldón,2026-S1,887,10,10206,validado_ine2024,PUQUELDÓN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Queilén,2026-S1,2629,10,10207,validado_ine2024,QUEILÉN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Quellón,2026-S1,8334,10,10208,validado_ine2024,QUELLÓN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Quemchi,2026-S1,2479,10,10209,validado_ine2024,QUEMCHI,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Quinchao,2026-S1,1903,10,10210,validado_ine2024,QUINCHAO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Osorno,2026-S1,68549,10,10301,validado_ine2024,OSORNO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Puerto Octay,2026-S1,3790,10,10302,validado_ine2024,PUERTO OCTAY,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Purranque,2026-S1,7053,10,10303,validado_ine2024,PURRANQUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Puyehue,2026-S1,5446,10,10304,validado_ine2024,PUYEHUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Río Negro,2026-S1,4983,10,10305,validado_ine2024,RÍO NEGRO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,San Juan de la Costa,2026-S1,1781,10,10306,validado_ine2024,SAN JUAN DE LA COSTA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,San Pablo,2026-S1,3474,10,10307,validado_ine2024,SAN PABLO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Chaitén,2026-S1,2730,10,10401,validado_ine2024,CHAITÉN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Futaleufú,2026-S1,1691,10,10402,validado_ine2024,FUTALEUFÚ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Hualaihué,2026-S1,3429,10,10403,validado_ine2024,HUALAIHUÉ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Los Lagos,Palena,2026-S1,933,10,10404,validado_ine2024,PALENA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Aysén,Coyhaique,2026-S1,28250,11,11101,validado_ine2024,COYHAIQUE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Aysén,Lago Verde,2026-S1,969,11,11102,validado_ine2024,LAGO VERDE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Aysén,Aysén,2026-S1,12817,11,11201,validado_ine2024,AYSÉN,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Aysén,Cisnes,2026-S1,3450,11,11202,validado_ine2024,CISNES,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Aysén,Guaitecas,2026-S1,500,11,11203,validado_ine2024,GUAITECAS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Aysén,Cochrane,2026-S1,2031,11,11301,validado_ine2024,COCHRANE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Aysén,O´Higgins,2026-S1,365,11,11302,validado_ine2024,O'HIGGINS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Aysén,Tortel,2026-S1,265,11,11303,validado_ine2024,TORTEL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Aysén,Chile Chico,2026-S1,3534,11,11401,validado_ine2024,CHILE CHICO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Aysén,Río Ibáñez,2026-S1,3586,11,11402,validado_ine2024,RÍO IBÁÑEZ,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Magallanes,Punta Arenas,2026-S1,59914,12,12101,validado_ine2024,PUNTA ARENAS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Magallanes,Laguna Blanca,2026-S1,74,12,12102,validado_ine2024,LAGUNA BLANCA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Magallanes,Río Verde,2026-S1,23,12,12103,validado_ine2024,RÍO VERDE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Magallanes,San Gregorio,2026-S1,239,12,12104,validado_ine2024,SAN GREGORIO,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Magallanes,Cabo de Hornos (Ex - Navarino),2026-S1,848,12,12201,validado_ine2024,CABO DE HORNOS,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Magallanes,Antártica,2026-S1,0,12,12202,codigo_oficial_conciliado,Antartica,"INE, clasificacion de comunas (CUT 12202)",ausente_en_capa_ine_2024
+Magallanes,Porvenir,2026-S1,3274,12,12301,validado_ine2024,PORVENIR,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Magallanes,Primavera,2026-S1,262,12,12302,validado_ine2024,PRIMAVERA,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Magallanes,Timaukel,2026-S1,253,12,12303,validado_ine2024,TIMAUKEL,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Magallanes,Natales,2026-S1,12195,12,12401,validado_ine2024,NATALES,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa
+Magallanes,Torres del Paine,2026-S1,125,12,12402,validado_ine2024,TORRES DEL PAINE,"INE Censo 2024, capa Comunal_CPV24",incluida_en_capa

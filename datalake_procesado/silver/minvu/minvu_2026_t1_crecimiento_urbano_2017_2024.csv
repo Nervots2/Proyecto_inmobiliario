@@ -1,0 +1,18 @@
+﻿fuente;tabla;pagina_pdf;periodo_referencia;nivel_geografico;codigo_region;region;superficie_2017_ha;superficie_2024_ha;crecimiento_bruto_ha;crecimiento_bruto_pct;crecimiento_dentro_limite_urbano_ha;crecimiento_dentro_limite_urbano_pct;crecimiento_fuera_limite_urbano_ha;crecimiento_fuera_limite_urbano_pct
+MINVU_DT10_2026;1;5;2017-2024;regional;15;arica y parinacota;2958.7;3225.9;267.3;9.0;64.3;24.1;202.9;75.9
+MINVU_DT10_2026;1;5;2017-2024;regional;1;tarapaca;3531.4;3898.6;367.2;10.4;240.5;65.5;126.7;34.5
+MINVU_DT10_2026;1;5;2017-2024;regional;2;antofagasta;6503.9;7663.2;1159.3;17.8;531.5;45.8;651.8;56.2
+MINVU_DT10_2026;1;5;2017-2024;regional;3;atacama;3577.8;4011.9;434.1;12.1;156.4;36.0;277.7;64.0
+MINVU_DT10_2026;1;5;2017-2024;regional;4;coquimbo;8237.7;9450.9;1213.3;14.7;1174.0;96.8;39.3;3.2
+MINVU_DT10_2026;1;5;2017-2024;regional;5;valparaiso;23625.7;25767.7;2141.9;9.1;1145.8;53.5;996.2;46.5
+MINVU_DT10_2026;1;5;2017-2024;regional;13;metropolitana;80042.0;90903.6;10861.6;13.6;6963.2;64.1;3898.4;35.9
+MINVU_DT10_2026;1;5;2017-2024;regional;6;ohiggins;7281.9;8135.0;853.1;11.7;487.3;57.1;365.8;42.9
+MINVU_DT10_2026;1;5;2017-2024;regional;7;maule;8645.4;10654.4;2009.0;23.2;1282.0;63.8;727.0;36.2
+MINVU_DT10_2026;1;5;2017-2024;regional;16;nuble;4244.0;5025.7;781.7;18.4;513.1;65.6;268.6;34.4
+MINVU_DT10_2026;1;5;2017-2024;regional;8;biobio;17168.6;18548.1;1379.5;8.0;828.9;60.1;550.5;39.9
+MINVU_DT10_2026;1;5;2017-2024;regional;9;la araucania;5504.7;5932.8;428.1;7.8;252.3;58.9;175.8;41.1
+MINVU_DT10_2026;1;5;2017-2024;regional;14;los rios;3209.6;3887.1;677.5;21.1;190.4;28.1;487.1;71.9
+MINVU_DT10_2026;1;5;2017-2024;regional;10;los lagos;6585.8;9354.5;2768.7;42.0;1741.7;62.9;1049.9;37.9
+MINVU_DT10_2026;1;5;2017-2024;regional;11;aysen;1592.5;1870.5;278.0;17.5;183.3;65.9;94.7;34.1
+MINVU_DT10_2026;1;5;2017-2024;regional;12;magallanes;3443.1;4385.3;942.3;27.4;382.3;40.6;559.9;59.4
+MINVU_DT10_2026;1;5;2017-2024;nacional;;nacional;186152.6;212715.2;26562.5;14.3;16137.0;60.8;10472.4;39.4
