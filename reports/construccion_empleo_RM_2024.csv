@@ -1,0 +1,53 @@
+﻿cut,comuna,region,unidades_autorizadas_2024,unidades_casas_2024,unidades_departamentos_2024,superficie_m2_2024,estado_chilehub,pct_ocupados_construccion,ocupados_construccion,ocupados_totales,estado_observatorio,dato_dudoso,registros_observatorio
+13101,Santiago,Metropolitana,1319,10,1309,80334,provisional,4.766504,13227,277499,observado,f,1
+13102,Cerrillos,Metropolitana,1889,11,1878,112331,provisional,8.359576,3159,37789,observado,f,1
+13103,Cerro Navia,Metropolitana,53,33,20,5107,provisional,11.30094,6026,53323,observado,f,1
+13104,Conchalí,Metropolitana,7,7,0,552,provisional,8.345548,4612,55263,observado,f,1
+13105,El Bosque,Metropolitana,14,14,0,1458,provisional,10.304545,6801,66000,observado,f,1
+13106,Estación Central,Metropolitana,241,9,232,20320,provisional,6.604417,6387,96708,observado,f,1
+13107,Huechuraba,Metropolitana,1567,29,1538,134951,provisional,8.061903,3881,48140,observado,f,1
+13108,Independencia,Metropolitana,217,8,209,17534,provisional,7.362602,4741,64393,observado,f,1
+13109,La Cisterna,Metropolitana,116,18,98,9201,provisional,6.01593,3142,52228,observado,f,1
+13110,La Florida,Metropolitana,1259,57,1202,91392,provisional,7.302465,13363,182993,observado,f,1
+13111,La Granja,Metropolitana,133,27,106,9359,provisional,9.503418,4616,48572,observado,f,1
+13112,La Pintana,Metropolitana,1799,1107,692,115491,provisional,13.564211,9451,69676,observado,f,1
+13113,La Reina,Metropolitana,30,30,0,4576,provisional,4.349194,1935,44491,observado,f,1
+13114,Las Condes,Metropolitana,551,56,495,56897,provisional,3.345427,5127,153254,observado,f,1
+13115,Lo Barnechea,Metropolitana,325,107,218,127104,provisional,4.363889,2327,53324,observado,f,1
+13116,Lo Espejo,Metropolitana,37,37,0,2999,provisional,9.90883,3554,35867,observado,f,1
+13117,Lo Prado,Metropolitana,13,13,0,1215,provisional,9.451032,4001,42334,observado,f,1
+13118,Macul,Metropolitana,507,22,485,42165,provisional,5.720473,3698,64645,observado,f,1
+13119,Maipú,Metropolitana,694,113,581,50238,provisional,5.818685,13698,235414,observado,f,1
+13120,Ñuñoa,Metropolitana,240,3,237,19896,provisional,3.229121,4588,142082,observado,f,1
+13121,Pedro Aguirre Cerda,Metropolitana,17,17,0,1251,provisional,8.233406,3488,42364,observado,f,1
+13122,Peñalolén,Metropolitana,48,45,3,4737,provisional,9.555132,10982,114933,observado,f,1
+13123,Providencia,Metropolitana,199,4,195,26668,provisional,2.645238,2278,86117,observado,f,1
+13124,Pudahuel,Metropolitana,2457,65,2392,179358,provisional,7.607258,7995,105097,observado,f,1
+13125,Quilicura,Metropolitana,271,271,0,15332,provisional,6.855958,6744,98367,observado,f,1
+13126,Quinta Normal,Metropolitana,1528,27,1501,117102,provisional,7.097403,4662,65686,observado,f,1
+13127,Recoleta,Metropolitana,56,46,10,5354,provisional,9.161268,6830,74553,observado,f,1
+13128,Renca,Metropolitana,511,19,492,32234,provisional,9.2047,5883,63913,observado,f,1
+13129,San Joaquín,Metropolitana,433,19,414,36621,provisional,6.746547,3063,45401,observado,f,1
+13130,San Miguel,Metropolitana,401,31,370,27237,provisional,4.696903,4074,86738,observado,f,1
+13131,San Ramón,Metropolitana,30,30,0,2458,provisional,10.968169,3649,33269,observado,f,1
+13132,Vitacura,Metropolitana,167,19,148,22930,provisional,3.050691,1324,43400,observado,f,1
+13201,Puente Alto,Metropolitana,465,169,296,30365,provisional,8.839775,23254,263061,observado,f,1
+13202,Pirque,Metropolitana,58,58,0,9853,provisional,8.468745,1157,13662,observado,f,1
+13203,San José de Maipo,Metropolitana,21,21,0,2705,provisional,8.803502,724,8224,observado,f,1
+13301,Colina,Metropolitana,1161,861,300,170991,provisional,8.564677,6451,75321,observado,f,1
+13302,Lampa,Metropolitana,944,666,278,71514,provisional,8.080034,5484,67871,observado,f,1
+13303,Tiltil,Metropolitana,206,206,0,12955,provisional,8.2046,717,8739,observado,f,1
+13401,San Bernardo,Metropolitana,1083,423,660,68239,provisional,9.074784,12330,135871,observado,f,1
+13402,Buin,Metropolitana,1435,1164,271,94952,provisional,7.046834,3727,52889,observado,f,1
+13403,Calera de Tango,Metropolitana,80,80,0,18177,provisional,6.434599,732,11376,observado,f,1
+13404,Paine,Metropolitana,52,52,0,7983,provisional,7.82235,2730,34900,observado,f,1
+13501,Melipilla,Metropolitana,83,83,0,12389,provisional,6.864798,3966,57773,observado,f,1
+13502,Alhué,Metropolitana,0,0,0,0,provisional,5.121675,181,3534,observado,f,1
+13503,Curacaví,Metropolitana,18,18,0,2860,provisional,8.391562,1273,15170,observado,f,1
+13504,María Pinto,Metropolitana,32,32,0,6697,provisional,7.067031,466,6594,observado,f,1
+13505,San Pedro,Metropolitana,43,43,0,3863,provisional,7.523246,356,4732,observado,f,1
+13601,Talagante,Metropolitana,34,34,0,9063,provisional,6.765034,2242,33141,observado,f,1
+13602,El Monte,Metropolitana,154,154,0,6833,provisional,7.464998,1205,16142,observado,f,1
+13603,Isla de Maipo,Metropolitana,112,112,0,14312,provisional,6.693313,1122,16763,observado,f,1
+13604,Padre Hurtado,Metropolitana,2101,323,1778,146276,provisional,7.71285,2946,38196,observado,f,1
+13605,Peñaflor,Metropolitana,391,391,0,27154,provisional,6.564342,2673,40720,observado,f,1

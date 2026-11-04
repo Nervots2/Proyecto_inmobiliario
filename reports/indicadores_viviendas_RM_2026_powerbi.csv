@@ -1,0 +1,53 @@
+﻿id_ubicacion,cut,comuna,region,publicaciones_total,publicaciones_casas,publicaciones_departamentos,publicaciones_chilepropiedades,publicaciones_portal,predios_total,predios_habitacionales,unidades_autorizadas_2026,estado_permisos_2026,periodo_sii,anio_permisos
+83,13101,Santiago,Metropolitana,5243,492,4751,4896,347,421154,219735,1,provisional,2026-S1,2026
+84,13102,Cerrillos,Metropolitana,129,65,64,118,11,32858,28136,2,provisional,2026-S1,2026
+85,13103,Cerro Navia,Metropolitana,54,43,11,54,0,32108,30699,4,provisional,2026-S1,2026
+86,13104,Conchalí,Metropolitana,127,59,68,121,6,36074,32223,0,provisional,2026-S1,2026
+87,13105,El Bosque,Metropolitana,128,98,30,124,4,44394,42545,1,provisional,2026-S1,2026
+88,13106,Estación Central,Metropolitana,1599,103,1496,1583,16,97083,70314,50,provisional,2026-S1,2026
+89,13107,Huechuraba,Metropolitana,360,205,155,281,79,46281,28415,220,provisional,2026-S1,2026
+90,13108,Independencia,Metropolitana,859,75,784,838,21,60972,43746,38,provisional,2026-S1,2026
+91,13109,La Cisterna,Metropolitana,560,114,446,530,30,57645,42309,1,provisional,2026-S1,2026
+92,13110,La Florida,Metropolitana,1366,556,810,1227,139,184659,140209,195,provisional,2026-S1,2026
+93,13111,La Granja,Metropolitana,76,53,23,74,2,31862,29929,2,provisional,2026-S1,2026
+94,13112,La Pintana,Metropolitana,47,29,18,45,2,50730,48827,1171,provisional,2026-S1,2026
+95,13113,La Reina,Metropolitana,521,422,99,396,125,41362,30094,1,provisional,2026-S1,2026
+96,13114,Las Condes,Metropolitana,2434,815,1619,1587,847,393151,128417,49,provisional,2026-S1,2026
+97,13115,Lo Barnechea,Metropolitana,1070,623,447,658,412,74645,34071,24,provisional,2026-S1,2026
+98,13116,Lo Espejo,Metropolitana,30,22,8,29,1,24010,23027,1,provisional,2026-S1,2026
+99,13117,Lo Prado,Metropolitana,61,46,15,59,2,25655,24090,4,provisional,2026-S1,2026
+100,13118,Macul,Metropolitana,621,125,496,569,52,77872,49159,0,provisional,2026-S1,2026
+101,13119,Maipú,Metropolitana,934,756,178,877,57,172295,161180,0,provisional,2026-S1,2026
+102,13120,Ñuñoa,Metropolitana,1777,282,1495,1550,227,263277,127744,0,provisional,2026-S1,2026
+103,13121,Pedro Aguirre Cerda,Metropolitana,68,52,16,67,1,29234,26581,2,provisional,2026-S1,2026
+104,13122,Peñalolén,Metropolitana,571,471,100,451,120,69621,62568,15,provisional,2026-S1,2026
+105,13123,Providencia,Metropolitana,1078,195,883,840,238,218019,75480,57,provisional,2026-S1,2026
+106,13124,Pudahuel,Metropolitana,266,203,63,257,9,70942,64792,3,provisional,2026-S1,2026
+107,13125,Quilicura,Metropolitana,283,221,62,250,33,68972,65158,2,provisional,2026-S1,2026
+108,13126,Quinta Normal,Metropolitana,464,86,378,452,12,48469,38317,2,provisional,2026-S1,2026
+109,13127,Recoleta,Metropolitana,353,90,263,341,12,56175,40347,1,provisional,2026-S1,2026
+110,13128,Renca,Metropolitana,85,50,35,80,5,45179,41884,1,provisional,2026-S1,2026
+111,13129,San Joaquín,Metropolitana,256,86,170,232,24,39256,31123,269,provisional,2026-S1,2026
+112,13130,San Miguel,Metropolitana,1142,116,1026,1102,40,117213,63794,3,provisional,2026-S1,2026
+113,13131,San Ramón,Metropolitana,35,22,13,34,1,20345,19230,3,provisional,2026-S1,2026
+114,13132,Vitacura,Metropolitana,943,305,638,520,423,114378,35280,0,provisional,2026-S1,2026
+115,13201,Puente Alto,Metropolitana,917,829,88,855,62,186785,181059,190,provisional,2026-S1,2026
+116,13202,Pirque,Metropolitana,41,41,0,37,4,7002,5286,4,provisional,2026-S1,2026
+117,13203,San José de Maipo,Metropolitana,40,40,0,39,1,6282,4577,1,provisional,2026-S1,2026
+118,13301,Colina,Metropolitana,1363,1333,30,812,551,55207,48360,11,provisional,2026-S1,2026
+119,13302,Lampa,Metropolitana,277,269,8,257,20,40005,35091,2,provisional,2026-S1,2026
+120,13303,Tiltil,Metropolitana,1,1,0,0,1,5436,4426,2,provisional,2026-S1,2026
+121,13401,San Bernardo,Metropolitana,436,338,98,405,31,100154,92679,21,provisional,2026-S1,2026
+122,13402,Buin,Metropolitana,248,245,3,215,33,37510,34676,278,provisional,2026-S1,2026
+123,13403,Calera de Tango,Metropolitana,43,43,0,40,3,6919,5493,7,provisional,2026-S1,2026
+124,13404,Paine,Metropolitana,67,67,0,66,1,22167,17501,3,provisional,2026-S1,2026
+125,13501,Melipilla,Metropolitana,68,61,7,66,2,40568,35662,3,provisional,2026-S1,2026
+126,13502,Alhué,Metropolitana,1,0,1,0,1,1487,1238,0,provisional,2026-S1,2026
+127,13503,Curacaví,Metropolitana,64,63,1,60,4,13066,8705,2,provisional,2026-S1,2026
+128,13504,María Pinto,Metropolitana,4,4,0,4,0,3733,2714,1,provisional,2026-S1,2026
+129,13505,San Pedro,Metropolitana,2,2,0,2,0,1520,915,2,provisional,2026-S1,2026
+130,13601,Talagante,Metropolitana,105,101,4,96,9,24335,20711,5,provisional,2026-S1,2026
+131,13602,El Monte,Metropolitana,22,21,1,22,0,10962,10092,1,provisional,2026-S1,2026
+132,13603,Isla de Maipo,Metropolitana,64,64,0,60,4,12117,10577,3,provisional,2026-S1,2026
+133,13604,Padre Hurtado,Metropolitana,148,134,14,133,15,28716,26040,7,provisional,2026-S1,2026
+134,13605,Peñaflor,Metropolitana,149,143,6,135,14,30266,28320,2,provisional,2026-S1,2026

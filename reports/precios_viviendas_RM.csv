@@ -1,0 +1,211 @@
+﻿cut,comuna,fuente,tipo_propiedad,moneda,publicaciones,precio_promedio,precio_mediano,promedio_sin_extremos,precios_extremos,alertas_uf
+13502,Alhué,portal_inmobiliario,departamento,UF,1,13500.00,13500.00,13500.00,0,0
+13402,Buin,chilepropiedades,casa,CLP,213,209196062.19,165000000.00,209196062.19,0,0
+13402,Buin,portal_inmobiliario,casa,CLP,2,152652104.50,152652104.50,152652104.50,0,0
+13402,Buin,portal_inmobiliario,casa,UF,30,6846.90,5020.00,6846.90,0,0
+13402,Buin,chilepropiedades,departamento,CLP,2,865196850.00,865196850.00,865196850.00,0,0
+13402,Buin,portal_inmobiliario,departamento,UF,1,2550.00,2550.00,2550.00,0,0
+13403,Calera de Tango,chilepropiedades,casa,CLP,40,498128517.28,495364464.00,498128517.28,0,0
+13403,Calera de Tango,portal_inmobiliario,casa,CLP,1,360000000.00,360000000.00,360000000.00,0,0
+13403,Calera de Tango,portal_inmobiliario,casa,UF,2,14145.00,14145.00,14145.00,0,0
+13102,Cerrillos,chilepropiedades,casa,CLP,61,192739538.89,165000000.00,195951862.92,1,0
+13102,Cerrillos,portal_inmobiliario,casa,CLP,1,220000000.00,220000000.00,220000000.00,0,0
+13102,Cerrillos,portal_inmobiliario,casa,UF,3,4963.33,3890.00,4963.33,0,0
+13102,Cerrillos,chilepropiedades,departamento,CLP,57,99884998.37,100693687.00,99884998.37,0,1
+13102,Cerrillos,portal_inmobiliario,departamento,UF,7,2478.43,2430.00,2478.43,0,0
+13103,Cerro Navia,chilepropiedades,casa,CLP,43,117247090.79,105000000.00,117247090.79,0,0
+13103,Cerro Navia,chilepropiedades,departamento,CLP,11,64174884.91,63000000.00,64174884.91,0,0
+13301,Colina,chilepropiedades,casa,CLP,789,617790022.17,572604245.00,617790022.17,0,0
+13301,Colina,portal_inmobiliario,casa,UF,544,16332.51,14750.00,16332.51,0,0
+13301,Colina,chilepropiedades,departamento,CLP,23,327730476.48,329598800.00,327730476.48,0,0
+13301,Colina,portal_inmobiliario,departamento,UF,7,8430.86,8179.00,8430.86,0,0
+13104,Conchalí,chilepropiedades,casa,CLP,58,175398796.78,131500000.00,178475968.63,1,0
+13104,Conchalí,portal_inmobiliario,casa,CLP,1,110000000.00,110000000.00,110000000.00,0,0
+13104,Conchalí,chilepropiedades,departamento,CLP,63,89943821.06,87000000.00,89943821.06,0,0
+13104,Conchalí,portal_inmobiliario,departamento,UF,5,2679.20,2917.00,2679.20,0,0
+13503,Curacaví,chilepropiedades,casa,CLP,59,345845020.39,309618238.00,345845020.39,0,0
+13503,Curacaví,portal_inmobiliario,casa,CLP,1,290000000.00,290000000.00,290000000.00,0,0
+13503,Curacaví,portal_inmobiliario,casa,UF,3,6755.00,5590.00,6755.00,0,0
+13503,Curacaví,chilepropiedades,departamento,CLP,1,68000000.00,68000000.00,68000000.00,0,0
+13105,El Bosque,chilepropiedades,casa,CLP,94,163944894.80,149950000.00,163944894.80,0,0
+13105,El Bosque,portal_inmobiliario,casa,CLP,3,114966666.67,99900000.00,114966666.67,0,0
+13105,El Bosque,portal_inmobiliario,casa,UF,1,4121.00,4121.00,4121.00,0,0
+13105,El Bosque,chilepropiedades,departamento,CLP,30,69396711.60,66753881.00,69396711.60,0,0
+13602,El Monte,chilepropiedades,casa,CLP,21,176170330.62,123583650.00,176170330.62,0,0
+13602,El Monte,chilepropiedades,departamento,CLP,1,26000000.00,26000000.00,26000000.00,0,0
+13106,Estación Central,chilepropiedades,casa,CLP,101,178968170.96,150000000.00,178968170.96,0,0
+13106,Estación Central,portal_inmobiliario,casa,CLP,1,115000000.00,115000000.00,115000000.00,0,0
+13106,Estación Central,portal_inmobiliario,casa,UF,1,5800.00,5800.00,5800.00,0,0
+13106,Estación Central,chilepropiedades,departamento,CLP,1482,1209823721.48,76209908.00,78755665.69,2,0
+13106,Estación Central,portal_inmobiliario,departamento,CLP,1,42990000.00,42990000.00,42990000.00,0,0
+13106,Estación Central,portal_inmobiliario,departamento,UF,13,2125.23,1872.00,2125.23,0,0
+13107,Huechuraba,chilepropiedades,casa,CLP,163,381843315.26,354273130.00,384200326.47,1,0
+13107,Huechuraba,portal_inmobiliario,casa,UF,42,8428.81,7295.00,8428.81,0,0
+13107,Huechuraba,chilepropiedades,departamento,CLP,118,244510861.07,238856130.50,244510861.07,0,0
+13107,Huechuraba,portal_inmobiliario,departamento,UF,37,5185.00,4807.00,5185.00,0,0
+13108,Independencia,chilepropiedades,casa,CLP,74,208337195.27,185000000.00,208337195.27,0,0
+13108,Independencia,portal_inmobiliario,casa,CLP,1,180000000.00,180000000.00,180000000.00,0,0
+13108,Independencia,chilepropiedades,departamento,CLP,764,88869020.61,81416918.00,88985491.55,1,12
+13108,Independencia,portal_inmobiliario,departamento,UF,20,2476.25,2400.50,2476.25,0,0
+13603,Isla de Maipo,chilepropiedades,casa,CLP,60,408179527.23,289391714.00,408179527.23,0,0
+13603,Isla de Maipo,portal_inmobiliario,casa,CLP,1,170000000.00,170000000.00,170000000.00,0,0
+13603,Isla de Maipo,portal_inmobiliario,casa,UF,3,7224.33,8250.00,7224.33,0,0
+13109,La Cisterna,chilepropiedades,casa,CLP,108,552725906.89,232500000.00,290280992.89,1,0
+13109,La Cisterna,portal_inmobiliario,casa,CLP,3,188333333.33,205000000.00,188333333.33,0,0
+13109,La Cisterna,portal_inmobiliario,casa,UF,3,6513.33,6750.00,6513.33,0,0
+13109,La Cisterna,chilepropiedades,departamento,CLP,422,94359958.05,90639670.00,94359958.05,0,4
+13109,La Cisterna,portal_inmobiliario,departamento,UF,24,2399.79,2437.00,2399.79,0,0
+13110,La Florida,chilepropiedades,casa,CLP,507,260278233.43,218000000.00,260278233.43,0,0
+13110,La Florida,portal_inmobiliario,casa,CLP,13,237807692.31,199000000.00,237807692.31,0,0
+13110,La Florida,portal_inmobiliario,casa,UF,36,7400.53,6437.00,7400.53,0,0
+13110,La Florida,chilepropiedades,departamento,CLP,720,137421534.73,121539558.00,138189238.00,4,20
+13110,La Florida,portal_inmobiliario,departamento,CLP,3,112666666.67,110000000.00,112666666.67,0,0
+13110,La Florida,portal_inmobiliario,departamento,UF,87,3064.02,3058.00,3064.02,0,0
+13111,La Granja,chilepropiedades,casa,CLP,52,165316156.87,126535852.50,165316156.87,0,0
+13111,La Granja,portal_inmobiliario,casa,CLP,1,95000000.00,95000000.00,95000000.00,0,0
+13111,La Granja,chilepropiedades,departamento,CLP,22,66245397.00,61500000.00,66245397.00,0,0
+13111,La Granja,portal_inmobiliario,departamento,UF,1,1800.00,1800.00,1800.00,0,0
+13302,Lampa,chilepropiedades,casa,CLP,251,167424077.09,135000000.00,167424077.09,0,0
+13302,Lampa,portal_inmobiliario,casa,UF,18,5026.67,5074.50,5026.67,0,0
+13302,Lampa,chilepropiedades,departamento,CLP,6,94667866.67,93353806.00,94667866.67,0,0
+13302,Lampa,portal_inmobiliario,departamento,UF,2,2097.00,2097.00,2097.00,0,0
+13112,La Pintana,chilepropiedades,casa,CLP,29,72702606.00,68000000.00,72702606.00,0,0
+13112,La Pintana,chilepropiedades,departamento,CLP,16,54668298.63,57695695.50,54668298.63,0,0
+13112,La Pintana,portal_inmobiliario,departamento,UF,2,2300.00,2300.00,2300.00,0,0
+13113,La Reina,chilepropiedades,casa,CLP,314,695266115.00,614828658.50,695266115.00,0,0
+13113,La Reina,portal_inmobiliario,casa,UF,108,15605.94,14140.00,15605.94,0,0
+13113,La Reina,chilepropiedades,departamento,CLP,82,326998200.83,282012973.50,326998200.83,0,0
+13113,La Reina,portal_inmobiliario,departamento,UF,17,8643.94,8800.00,8643.94,0,0
+13114,Las Condes,chilepropiedades,casa,CLP,519,823083859.73,720492680.00,823083859.73,0,0
+13114,Las Condes,portal_inmobiliario,casa,CLP,4,428199571.00,437500000.00,428199571.00,0,0
+13114,Las Condes,portal_inmobiliario,casa,UF,292,20706.09,18350.00,20706.09,0,0
+13114,Las Condes,chilepropiedades,departamento,CLP,1068,496451361.93,383158605.00,471084681.25,1,0
+13114,Las Condes,portal_inmobiliario,departamento,CLP,3,400707910.67,441123732.00,400707910.67,0,0
+13114,Las Condes,portal_inmobiliario,departamento,UF,548,12531.15,11600.00,12531.15,0,0
+13115,Lo Barnechea,chilepropiedades,casa,CLP,355,1169991370.29,1070646355.00,1169991370.29,0,0
+13115,Lo Barnechea,portal_inmobiliario,casa,UF,268,25735.26,24000.00,25735.26,0,0
+13115,Lo Barnechea,chilepropiedades,departamento,CLP,303,631243889.50,576797900.00,631243889.50,0,0
+13115,Lo Barnechea,portal_inmobiliario,departamento,UF,144,14844.42,13850.00,14844.42,0,0
+13116,Lo Espejo,chilepropiedades,casa,CLP,21,114717166.71,90000000.00,114717166.71,0,0
+13116,Lo Espejo,portal_inmobiliario,casa,CLP,1,115000000.00,115000000.00,115000000.00,0,0
+13116,Lo Espejo,chilepropiedades,departamento,CLP,8,59960243.75,60281890.00,59960243.75,0,0
+13117,Lo Prado,chilepropiedades,casa,CLP,44,155187386.45,137471007.50,155187386.45,0,0
+13117,Lo Prado,portal_inmobiliario,casa,CLP,2,117500000.00,117500000.00,117500000.00,0,0
+13117,Lo Prado,chilepropiedades,departamento,CLP,15,73671404.40,75000000.00,73671404.40,0,0
+13118,Macul,chilepropiedades,casa,CLP,118,272155820.29,266817100.50,272155820.29,0,0
+13118,Macul,portal_inmobiliario,casa,CLP,2,214000000.00,214000000.00,214000000.00,0,0
+13118,Macul,portal_inmobiliario,casa,UF,5,6194.00,5900.00,6194.00,0,0
+13118,Macul,chilepropiedades,departamento,CLP,451,133801224.49,131839520.00,134697183.62,3,6
+13118,Macul,portal_inmobiliario,departamento,UF,45,3257.24,3105.00,3257.24,0,0
+13119,Maipú,chilepropiedades,casa,CLP,715,175885811.26,144180925.00,176379162.37,2,1
+13119,Maipú,portal_inmobiliario,casa,CLP,20,128175000.00,130000000.00,128175000.00,0,0
+13119,Maipú,portal_inmobiliario,casa,UF,21,5072.14,3810.00,5072.14,0,0
+13119,Maipú,chilepropiedades,departamento,CLP,162,114222166.17,110619797.50,114931587.70,1,1
+13119,Maipú,portal_inmobiliario,departamento,CLP,6,84500000.00,73500000.00,84500000.00,0,0
+13119,Maipú,portal_inmobiliario,departamento,UF,10,3051.60,3025.00,3051.60,0,0
+13504,María Pinto,chilepropiedades,casa,CLP,4,392378088.75,428423320.00,392378088.75,0,0
+13501,Melipilla,chilepropiedades,casa,CLP,59,140610758.10,105000000.00,140610758.10,0,0
+13501,Melipilla,portal_inmobiliario,casa,UF,2,5885.00,5885.00,5885.00,0,0
+13501,Melipilla,chilepropiedades,departamento,CLP,7,53855386.00,48000000.00,53855386.00,0,0
+13120,Ñuñoa,chilepropiedades,casa,CLP,243,468820542.53,424303865.00,470757780.72,1,0
+13120,Ñuñoa,portal_inmobiliario,casa,CLP,1,380000000.00,380000000.00,380000000.00,0,0
+13120,Ñuñoa,portal_inmobiliario,casa,UF,38,11623.34,10712.50,11623.34,0,0
+13120,Ñuñoa,chilepropiedades,departamento,CLP,1307,204221771.93,191579302.00,204534747.19,2,21
+13120,Ñuñoa,portal_inmobiliario,departamento,CLP,1,95000000.00,95000000.00,95000000.00,0,0
+13120,Ñuñoa,portal_inmobiliario,departamento,UF,187,5076.37,4900.00,5076.37,0,0
+13604,Padre Hurtado,chilepropiedades,casa,CLP,122,196183123.34,183128010.00,196183123.34,0,0
+13604,Padre Hurtado,portal_inmobiliario,casa,CLP,1,114000000.00,114000000.00,114000000.00,0,0
+13604,Padre Hurtado,portal_inmobiliario,casa,UF,11,4589.64,4720.00,4589.64,0,0
+13604,Padre Hurtado,chilepropiedades,departamento,CLP,11,102803092.36,78279715.00,102803092.36,0,0
+13604,Padre Hurtado,portal_inmobiliario,departamento,UF,3,2724.67,2600.00,2724.67,0,0
+13404,Paine,chilepropiedades,casa,CLP,66,247147502.17,177500000.00,247147502.17,0,0
+13404,Paine,portal_inmobiliario,casa,UF,1,15950.00,15950.00,15950.00,0,0
+13121,Pedro Aguirre Cerda,chilepropiedades,casa,CLP,51,154925688.59,140000000.00,154925688.59,0,0
+13121,Pedro Aguirre Cerda,portal_inmobiliario,casa,CLP,1,115000000.00,115000000.00,115000000.00,0,0
+13121,Pedro Aguirre Cerda,chilepropiedades,departamento,CLP,16,80588008.75,71000000.00,80588008.75,0,0
+13605,Peñaflor,chilepropiedades,casa,CLP,129,201839614.35,150000000.00,201839614.35,0,0
+13605,Peñaflor,portal_inmobiliario,casa,CLP,7,171354285.71,150000000.00,171354285.71,0,0
+13605,Peñaflor,portal_inmobiliario,casa,UF,7,5102.57,4300.00,5102.57,0,0
+13605,Peñaflor,chilepropiedades,departamento,CLP,6,39062642.17,39687926.50,39062642.17,0,0
+13122,Peñalolén,chilepropiedades,casa,CLP,367,416678228.06,399587135.00,416678228.06,0,0
+13122,Peñalolén,portal_inmobiliario,casa,CLP,4,168500000.00,171000000.00,168500000.00,0,0
+13122,Peñalolén,portal_inmobiliario,casa,UF,100,11573.36,10900.00,11573.36,0,0
+13122,Peñalolén,chilepropiedades,departamento,CLP,84,245562944.44,230719160.00,245562944.44,0,0
+13122,Peñalolén,portal_inmobiliario,departamento,UF,16,6811.75,6631.00,6811.75,0,0
+13202,Pirque,chilepropiedades,casa,CLP,37,497893580.86,514931875.00,497893580.86,0,0
+13202,Pirque,portal_inmobiliario,casa,UF,4,22150.00,15650.00,22150.00,0,0
+13123,Providencia,chilepropiedades,casa,CLP,154,742315345.85,634396070.00,742315345.85,0,0
+13123,Providencia,portal_inmobiliario,casa,CLP,1,300000000.00,300000000.00,300000000.00,0,0
+13123,Providencia,portal_inmobiliario,casa,UF,40,14613.85,13395.00,14613.85,0,0
+13123,Providencia,chilepropiedades,departamento,CLP,686,334311969.53,300758905.00,335780372.30,3,0
+13123,Providencia,portal_inmobiliario,departamento,CLP,1,367194662.00,367194662.00,367194662.00,0,0
+13123,Providencia,portal_inmobiliario,departamento,UF,196,9062.24,8500.00,9062.24,0,0
+13124,Pudahuel,chilepropiedades,casa,CLP,197,225145500.04,214211660.00,225145500.04,0,0
+13124,Pudahuel,portal_inmobiliario,casa,CLP,1,165000000.00,165000000.00,165000000.00,0,0
+13124,Pudahuel,portal_inmobiliario,casa,UF,5,6644.80,7400.00,6644.80,0,0
+13124,Pudahuel,chilepropiedades,departamento,CLP,60,91496841.28,85000000.00,93047603.85,1,0
+13124,Pudahuel,portal_inmobiliario,departamento,UF,3,2943.67,2907.00,2943.67,0,0
+13201,Puente Alto,chilepropiedades,casa,CLP,775,151924321.79,128000000.00,152317390.28,2,1
+13201,Puente Alto,portal_inmobiliario,casa,CLP,29,185824137.93,175000000.00,185824137.93,0,0
+13201,Puente Alto,portal_inmobiliario,casa,UF,25,4555.60,4369.00,4555.60,0,0
+13201,Puente Alto,chilepropiedades,departamento,CLP,80,110367140.30,90000000.00,110367140.30,0,0
+13201,Puente Alto,portal_inmobiliario,departamento,UF,8,2535.88,2611.00,2535.88,0,0
+13125,Quilicura,chilepropiedades,casa,CLP,197,163535780.96,152419835.00,164370122.14,1,0
+13125,Quilicura,portal_inmobiliario,casa,CLP,4,150500000.00,154000000.00,150500000.00,0,0
+13125,Quilicura,portal_inmobiliario,casa,UF,20,4881.65,4973.00,4881.65,0,0
+13125,Quilicura,chilepropiedades,departamento,CLP,53,89307306.91,70000000.00,89307306.91,0,0
+13125,Quilicura,portal_inmobiliario,departamento,UF,9,2644.56,2750.00,2644.56,0,0
+13126,Quinta Normal,chilepropiedades,casa,CLP,83,255466752.46,200000000.00,255466752.46,0,0
+13126,Quinta Normal,portal_inmobiliario,casa,CLP,1,200000000.00,200000000.00,200000000.00,0,0
+13126,Quinta Normal,portal_inmobiliario,casa,UF,2,6552.00,6552.00,6552.00,0,0
+13126,Quinta Normal,chilepropiedades,departamento,CLP,369,83076086.25,78774422.00,83076086.25,0,3
+13126,Quinta Normal,portal_inmobiliario,departamento,CLP,1,67000000.00,67000000.00,67000000.00,0,0
+13126,Quinta Normal,portal_inmobiliario,departamento,UF,8,2266.13,2362.50,2266.13,0,0
+13127,Recoleta,chilepropiedades,casa,CLP,87,248913239.51,210000000.00,251807579.49,1,0
+13127,Recoleta,portal_inmobiliario,casa,CLP,1,175000000.00,175000000.00,175000000.00,0,0
+13127,Recoleta,portal_inmobiliario,casa,UF,2,5475.00,5475.00,5475.00,0,0
+13127,Recoleta,chilepropiedades,departamento,CLP,254,114725297.28,113149794.00,114725297.28,0,0
+13127,Recoleta,portal_inmobiliario,departamento,CLP,2,73000000.00,73000000.00,73000000.00,0,0
+13127,Recoleta,portal_inmobiliario,departamento,UF,7,2888.57,2963.00,2888.57,0,0
+13128,Renca,chilepropiedades,casa,CLP,49,128519970.18,123995596.00,128519970.18,0,0
+13128,Renca,portal_inmobiliario,casa,CLP,1,220000000.00,220000000.00,220000000.00,0,0
+13128,Renca,chilepropiedades,departamento,CLP,31,77368837.26,78279715.00,77368837.26,0,1
+13128,Renca,portal_inmobiliario,departamento,UF,4,2269.00,2370.00,2269.00,0,0
+13401,San Bernardo,chilepropiedades,casa,CLP,316,209043015.34,130000000.00,209043015.34,0,0
+13401,San Bernardo,portal_inmobiliario,casa,CLP,7,129285714.29,99000000.00,129285714.29,0,0
+13401,San Bernardo,portal_inmobiliario,casa,UF,15,4783.07,3890.00,4783.07,0,0
+13401,San Bernardo,chilepropiedades,departamento,CLP,89,100608466.25,101681230.00,100608466.25,0,8
+13401,San Bernardo,portal_inmobiliario,departamento,UF,9,2766.44,2730.00,2766.44,0,0
+13129,San Joaquín,chilepropiedades,casa,CLP,78,187119923.29,157500000.00,187119923.29,0,0
+13129,San Joaquín,portal_inmobiliario,casa,CLP,3,211666666.67,215000000.00,211666666.67,0,0
+13129,San Joaquín,portal_inmobiliario,casa,UF,5,6307.80,4649.00,6307.80,0,0
+13129,San Joaquín,chilepropiedades,departamento,CLP,154,175110229.25,98879640.00,103926115.00,1,2
+13129,San Joaquín,portal_inmobiliario,departamento,CLP,2,90490000.00,90490000.00,90490000.00,0,0
+13129,San Joaquín,portal_inmobiliario,departamento,UF,14,2741.21,2716.00,2741.21,0,0
+13203,San José de Maipo,chilepropiedades,casa,CLP,39,306310308.21,260000000.00,306310308.21,0,0
+13203,San José de Maipo,portal_inmobiliario,casa,UF,1,8000.00,8000.00,8000.00,0,0
+13130,San Miguel,chilepropiedades,casa,CLP,112,390811039.00,308547179.50,390811039.00,0,0
+13130,San Miguel,portal_inmobiliario,casa,CLP,3,226333333.33,230000000.00,226333333.33,0,0
+13130,San Miguel,portal_inmobiliario,casa,UF,1,13000.00,13000.00,13000.00,0,0
+13130,San Miguel,chilepropiedades,departamento,CLP,990,121949652.90,115359580.00,122196503.21,2,21
+13130,San Miguel,portal_inmobiliario,departamento,CLP,3,122000000.00,114000000.00,122000000.00,0,0
+13130,San Miguel,portal_inmobiliario,departamento,UF,33,3472.00,2990.00,3472.00,0,0
+13505,San Pedro,chilepropiedades,casa,CLP,2,85000000.00,85000000.00,85000000.00,0,0
+13131,San Ramón,chilepropiedades,casa,CLP,22,118668905.64,120267626.50,118668905.64,0,0
+13131,San Ramón,chilepropiedades,departamento,CLP,12,82768216.50,63500000.00,82768216.50,0,0
+13131,San Ramón,portal_inmobiliario,departamento,UF,1,1700.00,1700.00,1700.00,0,0
+13101,Santiago,chilepropiedades,casa,CLP,301,384396166.39,232749208.00,384396166.39,0,0
+13101,Santiago,portal_inmobiliario,casa,CLP,80,239506750.00,180000000.00,239506750.00,0,0
+13101,Santiago,portal_inmobiliario,casa,UF,111,12457.67,8000.00,12457.67,0,0
+13101,Santiago,chilepropiedades,departamento,CLP,4595,789012504.59,94759655.00,105592224.47,18,132
+13101,Santiago,portal_inmobiliario,departamento,CLP,18,111607222.22,96500000.00,111607222.22,0,0
+13101,Santiago,portal_inmobiliario,departamento,UF,138,2791.53,2699.00,2791.53,0,0
+13601,Talagante,chilepropiedades,casa,CLP,92,380013483.43,366631495.00,384189380.51,1,0
+13601,Talagante,portal_inmobiliario,casa,CLP,1,310000000.00,310000000.00,310000000.00,0,0
+13601,Talagante,portal_inmobiliario,casa,UF,8,10440.25,9000.00,10440.25,0,0
+13601,Talagante,chilepropiedades,departamento,CLP,4,78049868.75,65500000.00,78049868.75,0,0
+13303,Tiltil,portal_inmobiliario,casa,UF,1,14900.00,14900.00,14900.00,0,0
+13132,Vitacura,chilepropiedades,casa,CLP,150,1274665859.73,984549745.00,1274665859.73,0,0
+13132,Vitacura,portal_inmobiliario,casa,UF,155,27958.13,20800.00,27958.13,0,0
+13132,Vitacura,chilepropiedades,departamento,CLP,370,643751365.95,597397825.00,643751365.95,0,0
+13132,Vitacura,portal_inmobiliario,departamento,UF,268,14863.13,13600.00,14863.13,0,0
