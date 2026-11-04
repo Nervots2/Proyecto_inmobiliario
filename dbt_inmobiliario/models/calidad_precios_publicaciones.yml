@@ -1,0 +1,25 @@
+version: 2
+
+models:
+  - name: calidad_precios_publicaciones
+    description: >
+      Clasificación exploratoria de calidad de precios
+      inmobiliarios, conservando los valores originales.
+
+    columns:
+      - name: id_registro
+        data_tests:
+          - not_null
+          - unique
+
+      - name: estado_calidad_precio
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values:
+                  - precio_nulo
+                  - precio_no_positivo
+                  - precio_muy_bajo
+                  - precio_extremadamente_alto
+                  - sin_alerta_por_umbral

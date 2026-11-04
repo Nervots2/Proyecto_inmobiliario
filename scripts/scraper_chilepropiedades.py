@@ -6,9 +6,39 @@ import time
 import random
 import re
 from elasticsearch import Elasticsearch
+from decimal import Decimal
 
 es = Elasticsearch("http://127.0.0.1:9200", request_timeout=30)
 extraer_solo_numeros = lambda texto: ''.join([c for c in texto if c in '0123456789'])
+
+
+def extraer_precio_uf(texto):
+    patron = (
+        r"(?:\bUF\s*([\d.,]+)|"
+        r"([\d.,]+)\s*UF\b)"
+    )
+
+    coincidencia = re.search(patron, texto, re.IGNORECASE)
+
+    if not coincidencia:
+        return None
+
+    valor = coincidencia.group(1) or coincidencia.group(2)
+    valor = valor.strip("., ")
+
+    # Formato chileno con separadores de miles
+    if re.fullmatch(r"\d{1,3}(?:\.\d{3})+(?:,\d+)?", valor):
+        valor = valor.replace(".", "").replace(",", ".")
+
+    # Enteros o decimales con coma
+    elif re.fullmatch(r"\d+(?:,\d+)?", valor):
+        valor = valor.replace(",", ".")
+
+    else:
+        return None
+
+    return Decimal(valor)
+
 
 def scraping_masivo(tipo_propiedad):
     cabeceras = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
@@ -58,10 +88,11 @@ def scraping_masivo(tipo_propiedad):
                             if '$' in texto and precio_clp == 0:
                                 val = extraer_solo_numeros(texto)
                                 if val: precio_clp = int(val)
-                            elif 'UF' in texto and precio_uf == 0.0:
-                                val = ''.join([c for c in texto if c in '0123456789.,']).replace(',', '.')
-                                if val.count('.') > 1: val = val.replace('.', '', val.count('.') - 1)
-                                if val and val != '.': precio_uf = float(val)
+                            elif 'UF' in texto.upper() and precio_uf == 0.0:
+                                valor = extraer_precio_uf(texto)
+
+                                if valor is not None and valor > 0:
+                                    precio_uf = float(valor)
 
                     caracteristicas = {}
                     for elemento in sopa_prop.find_all(['div', 'li', 'span']):

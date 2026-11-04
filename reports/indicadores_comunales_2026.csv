@@ -1,0 +1,347 @@
+﻿id_ubicacion,cut,comuna,region,publicaciones_total,publicaciones_chilepropiedades,publicaciones_portal,predios_total,predios_habitacionales,unidades_autorizadas_2026,estado_permisos_2026,periodo_sii,anio_permisos
+5,01101,Iquique,Tarapac├í,0,0,0,94020,55513,1,provisional,2026-S1,2026
+6,01107,Alto Hospicio,Tarapac├í,0,0,0,35692,31192,2,provisional,2026-S1,2026
+7,01401,Pozo Almonte,Tarapac├í,0,0,0,7620,5379,2,provisional,2026-S1,2026
+8,01402,Cami├▒a,Tarapac├í,0,0,0,636,494,0,provisional,2026-S1,2026
+9,01403,Colchane,Tarapac├í,0,0,0,729,239,0,provisional,2026-S1,2026
+10,01404,Huara,Tarapac├í,0,0,0,2114,1676,0,provisional,2026-S1,2026
+11,01405,Pica,Tarapac├í,0,0,0,2813,1913,0,provisional,2026-S1,2026
+12,02101,Antofagasta,Antofagasta,0,0,0,177786,117973,12,provisional,2026-S1,2026
+13,02102,Mejillones,Antofagasta,0,0,0,5855,4356,1,provisional,2026-S1,2026
+14,02103,Sierra Gorda,Antofagasta,0,0,0,1207,428,0,provisional,2026-S1,2026
+15,02104,Taltal,Antofagasta,0,0,0,4481,3670,1,provisional,2026-S1,2026
+16,02201,Calama,Antofagasta,0,0,0,56208,45754,0,provisional,2026-S1,2026
+17,02202,Ollag├╝e,Antofagasta,0,0,0,171,70,0,provisional,2026-S1,2026
+18,02203,San Pedro de Atacama,Antofagasta,0,0,0,3025,1675,0,provisional,2026-S1,2026
+19,02301,Tocopilla,Antofagasta,0,0,0,10185,8975,0,provisional,2026-S1,2026
+20,02302,Mar├¡a Elena,Antofagasta,0,0,0,597,94,0,provisional,2026-S1,2026
+21,03101,Copiap├│,Atacama,0,0,0,65222,53414,4,provisional,2026-S1,2026
+22,03102,Caldera,Atacama,0,0,0,10331,8505,7,provisional,2026-S1,2026
+23,03103,Tierra Amarilla,Atacama,0,0,0,3746,3132,0,provisional,2026-S1,2026
+24,03201,Cha├▒aral,Atacama,0,0,0,5650,4766,2,provisional,2026-S1,2026
+25,03202,Diego de Almagro,Atacama,0,0,0,3907,2931,0,provisional,2026-S1,2026
+26,03301,Vallenar,Atacama,0,0,0,21056,18150,117,provisional,2026-S1,2026
+27,03302,Alto del Carmen,Atacama,0,0,0,1480,1110,0,provisional,2026-S1,2026
+28,03303,Freirina,Atacama,0,0,0,3111,2327,0,provisional,2026-S1,2026
+29,03304,Huasco,Atacama,0,0,0,5020,4160,0,provisional,2026-S1,2026
+30,04101,La Serena,Coquimbo,0,0,0,136719,101384,125,provisional,2026-S1,2026
+31,04102,Coquimbo,Coquimbo,0,0,0,124582,97714,15,provisional,2026-S1,2026
+32,04103,Andacollo,Coquimbo,0,0,0,4757,3980,1,provisional,2026-S1,2026
+33,04104,La Higuera,Coquimbo,0,0,0,4203,2230,1,provisional,2026-S1,2026
+34,04105,Paiguano,Coquimbo,0,0,0,2564,1898,0,provisional,2026-S1,2026
+35,04106,Vicu├▒a,Coquimbo,0,0,0,12467,9983,0,provisional,2026-S1,2026
+36,04201,Illapel,Coquimbo,0,0,0,12048,9596,1,provisional,2026-S1,2026
+37,04202,Canela,Coquimbo,0,0,0,5328,3281,0,provisional,2026-S1,2026
+38,04203,Los Vilos,Coquimbo,0,0,0,14589,10302,8,provisional,2026-S1,2026
+39,04204,Salamanca,Coquimbo,0,0,0,11017,8672,3,provisional,2026-S1,2026
+40,04301,Ovalle,Coquimbo,0,0,0,53022,39763,9,provisional,2026-S1,2026
+41,04302,Combarbal├í,Coquimbo,0,0,0,6939,5910,1,provisional,2026-S1,2026
+42,04303,Monte Patria,Coquimbo,0,0,0,12229,10667,3,provisional,2026-S1,2026
+43,04304,Punitaqui,Coquimbo,0,0,0,4525,3411,2,provisional,2026-S1,2026
+44,04305,R├¡o Hurtado,Coquimbo,0,0,0,2263,1791,1,provisional,2026-S1,2026
+45,05101,Valpara├¡so,Valpara├¡so,56,0,56,130182,99462,6,provisional,2026-S1,2026
+46,05102,Casablanca,Valpara├¡so,2,0,2,15336,9466,9,provisional,2026-S1,2026
+47,05103,Conc├│n,Valpara├¡so,40,0,40,51071,24937,5,provisional,2026-S1,2026
+48,05104,Juan Fern├índez,Valpara├¡so,0,0,0,459,248,0,provisional,2026-S1,2026
+49,05105,Puchuncav├¡,Valpara├¡so,66,0,66,21006,11939,12,provisional,2026-S1,2026
+50,05107,Quintero,Valpara├¡so,16,0,16,20273,13736,4,provisional,2026-S1,2026
+51,05109,Vi├▒a del Mar,Valpara├¡so,195,0,195,235908,139361,48,provisional,2026-S1,2026
+52,05201,Isla de Pascua,Valpara├¡so,0,0,0,455,293,1,provisional,2026-S1,2026
+53,05301,Los Andes,Valpara├¡so,11,0,11,28224,24804,0,provisional,2026-S1,2026
+54,05302,Calle Larga,Valpara├¡so,1,0,1,6141,5164,0,provisional,2026-S1,2026
+55,05303,Rinconada,Valpara├¡so,0,0,0,5210,3943,0,provisional,2026-S1,2026
+56,05304,San Esteban,Valpara├¡so,1,0,1,8360,6482,1,provisional,2026-S1,2026
+57,05401,La Ligua,Valpara├¡so,15,0,15,17587,11915,64,provisional,2026-S1,2026
+58,05402,Cabildo,Valpara├¡so,0,0,0,6598,5187,4,provisional,2026-S1,2026
+59,05403,Papudo,Valpara├¡so,4,0,4,11322,6808,2,provisional,2026-S1,2026
+60,05404,Petorca,Valpara├¡so,0,0,0,4142,3296,6,provisional,2026-S1,2026
+61,05405,Zapallar,Valpara├¡so,31,0,31,9897,6151,11,provisional,2026-S1,2026
+62,05501,Quillota,Valpara├¡so,16,0,16,38563,33673,13,provisional,2026-S1,2026
+63,05502,Calera,Valpara├¡so,4,0,4,18301,16730,3,provisional,2026-S1,2026
+64,05503,Hijuelas,Valpara├¡so,1,0,1,5467,3892,5,provisional,2026-S1,2026
+65,05504,La Cruz,Valpara├¡so,1,0,1,9512,8477,3,provisional,2026-S1,2026
+66,05506,Nogales,Valpara├¡so,0,0,0,6914,5709,0,provisional,2026-S1,2026
+67,05601,San Antonio,Valpara├¡so,9,0,9,35314,29703,3,provisional,2026-S1,2026
+68,05602,Algarrobo,Valpara├¡so,6,0,6,29877,18120,27,provisional,2026-S1,2026
+69,05603,Cartagena,Valpara├¡so,4,0,4,12736,10648,13,provisional,2026-S1,2026
+70,05604,El Quisco,Valpara├¡so,12,0,12,17258,13676,114,provisional,2026-S1,2026
+71,05605,El Tabo,Valpara├¡so,2,0,2,17137,13786,9,provisional,2026-S1,2026
+72,05606,Santo Domingo,Valpara├¡so,3,0,3,10949,6130,18,provisional,2026-S1,2026
+73,05701,San Felipe,Valpara├¡so,1,0,1,30879,27433,1,provisional,2026-S1,2026
+74,05702,Catemu,Valpara├¡so,0,0,0,5303,4057,0,provisional,2026-S1,2026
+75,05703,Llaillay,Valpara├¡so,2,0,2,9440,7507,0,provisional,2026-S1,2026
+76,05704,Panquehue,Valpara├¡so,0,0,0,2457,1878,0,provisional,2026-S1,2026
+77,05705,Putaendo,Valpara├¡so,0,0,0,6123,4950,81,provisional,2026-S1,2026
+78,05706,Santa Mar├¡a,Valpara├¡so,0,0,0,5825,5000,2,provisional,2026-S1,2026
+79,05801,Quilpu├®,Valpara├¡so,10,0,10,68104,56413,18,provisional,2026-S1,2026
+80,05802,Limache,Valpara├¡so,4,0,4,23907,16479,9,provisional,2026-S1,2026
+81,05803,Olmu├®,Valpara├¡so,6,0,6,8911,6429,2,provisional,2026-S1,2026
+82,05804,Villa Alemana,Valpara├¡so,9,0,9,56378,50451,6,provisional,2026-S1,2026
+135,06101,Rancagua,O'Higgins,0,0,0,112567,96011,2,provisional,2026-S1,2026
+136,06102,Codegua,O'Higgins,0,0,0,4343,3140,0,provisional,2026-S1,2026
+137,06103,Coinco,O'Higgins,0,0,0,2627,1639,1,provisional,2026-S1,2026
+138,06104,Coltauco,O'Higgins,0,0,0,7216,6038,4,provisional,2026-S1,2026
+139,06105,Do├▒ihue,O'Higgins,0,0,0,7212,6026,0,provisional,2026-S1,2026
+140,06106,Graneros,O'Higgins,0,0,0,12231,10993,0,provisional,2026-S1,2026
+141,06107,Las Cabras,O'Higgins,0,0,0,11865,8238,5,provisional,2026-S1,2026
+142,06108,Machal├¡,O'Higgins,0,0,0,24746,21153,1,provisional,2026-S1,2026
+143,06109,Malloa,O'Higgins,0,0,0,4409,3395,5,provisional,2026-S1,2026
+144,06110,Mostazal,O'Higgins,0,0,0,9629,6916,3,provisional,2026-S1,2026
+145,06111,Olivar,O'Higgins,0,0,0,4486,3121,2,provisional,2026-S1,2026
+146,06112,Peumo,O'Higgins,0,0,0,4778,4035,0,provisional,2026-S1,2026
+147,06113,Pichidegua,O'Higgins,0,0,0,6798,5319,1,provisional,2026-S1,2026
+148,06114,Quinta de Tilcoco,O'Higgins,0,0,0,4924,4014,3,provisional,2026-S1,2026
+149,06115,Rengo,O'Higgins,0,0,0,24133,21758,0,provisional,2026-S1,2026
+150,06116,Requ├¡noa,O'Higgins,0,0,0,10264,7761,4,provisional,2026-S1,2026
+151,06117,San Vicente,O'Higgins,0,0,0,16884,14065,7,provisional,2026-S1,2026
+152,06201,Pichilemu,O'Higgins,0,0,0,16951,9702,32,provisional,2026-S1,2026
+153,06202,La Estrella,O'Higgins,0,0,0,5226,1108,1,provisional,2026-S1,2026
+154,06203,Litueche,O'Higgins,0,0,0,9653,1980,2,provisional,2026-S1,2026
+155,06204,Marchihue,O'Higgins,0,0,0,6787,2005,9,provisional,2026-S1,2026
+156,06205,Navidad,O'Higgins,0,0,0,6185,2064,3,provisional,2026-S1,2026
+157,06206,Paredones,O'Higgins,0,0,0,9410,1904,5,provisional,2026-S1,2026
+158,06301,San Fernando,O'Higgins,0,0,0,33356,28290,4,provisional,2026-S1,2026
+159,06302,Ch├®pica,O'Higgins,0,0,0,6960,4699,3,provisional,2026-S1,2026
+160,06303,Chimbarongo,O'Higgins,0,0,0,13151,9884,1,provisional,2026-S1,2026
+161,06304,Lolol,O'Higgins,0,0,0,3857,1856,3,provisional,2026-S1,2026
+162,06305,Nancagua,O'Higgins,0,0,0,6906,5603,3,provisional,2026-S1,2026
+163,06306,Palmilla,O'Higgins,0,0,0,4982,3202,6,provisional,2026-S1,2026
+164,06307,Peralillo,O'Higgins,0,0,0,5799,3346,30,provisional,2026-S1,2026
+165,06308,Placilla,O'Higgins,0,0,0,3122,2105,4,provisional,2026-S1,2026
+166,06309,Pumanque,O'Higgins,0,0,0,3483,891,0,provisional,2026-S1,2026
+167,06310,Santa Cruz,O'Higgins,0,0,0,17551,13564,5,provisional,2026-S1,2026
+168,07101,Talca,Maule,0,0,0,117321,95472,153,provisional,2026-S1,2026
+169,07102,Constituci├│n,Maule,0,0,0,18987,15980,4,provisional,2026-S1,2026
+170,07103,Curepto,Maule,0,0,0,3783,2673,3,provisional,2026-S1,2026
+171,07104,Empedrado,Maule,0,0,0,1391,1035,0,provisional,2026-S1,2026
+172,07105,Maule,Maule,0,0,0,22698,20182,9,provisional,2026-S1,2026
+173,07106,Pelarco,Maule,0,0,0,3573,1940,2,provisional,2026-S1,2026
+174,07107,Pencahue,Maule,0,0,0,4148,2573,4,provisional,2026-S1,2026
+175,07108,R├¡o Claro,Maule,0,0,0,4977,3571,6,provisional,2026-S1,2026
+176,07109,San Clemente,Maule,0,0,0,17946,12836,4,provisional,2026-S1,2026
+177,07110,San Rafael,Maule,0,0,0,3750,2689,3,provisional,2026-S1,2026
+178,07201,Cauquenes,Maule,0,0,0,24623,16475,17,provisional,2026-S1,2026
+179,07202,Chanco,Maule,0,0,0,3017,1959,2,provisional,2026-S1,2026
+180,07203,Pelluhue,Maule,0,0,0,7198,3838,2,provisional,2026-S1,2026
+181,07301,Curic├│,Maule,0,0,0,68284,57410,17,provisional,2026-S1,2026
+182,07302,Huala├▒├®,Maule,0,0,0,5996,3272,4,provisional,2026-S1,2026
+183,07303,Licant├®n,Maule,0,0,0,4386,2592,4,provisional,2026-S1,2026
+184,07304,Molina,Maule,0,0,0,19440,16505,6,provisional,2026-S1,2026
+185,07305,Rauco,Maule,0,0,0,4149,3164,2,provisional,2026-S1,2026
+186,07306,Romeral,Maule,0,0,0,6317,4576,4,provisional,2026-S1,2026
+187,07307,Sagrada Familia,Maule,0,0,0,6332,4887,4,provisional,2026-S1,2026
+188,07308,Teno,Maule,0,0,0,10460,7089,6,provisional,2026-S1,2026
+189,07309,Vichuqu├®n,Maule,0,0,0,5590,2369,5,provisional,2026-S1,2026
+190,07401,Linares,Maule,0,0,0,42536,34421,17,provisional,2026-S1,2026
+191,07402,Colb├║n,Maule,0,0,0,8622,5832,8,provisional,2026-S1,2026
+192,07403,Longav├¡,Maule,0,0,0,9300,5612,10,provisional,2026-S1,2026
+193,07404,Parral,Maule,0,0,0,20263,15023,17,provisional,2026-S1,2026
+194,07405,Retiro,Maule,0,0,0,7751,4523,5,provisional,2026-S1,2026
+195,07406,San Javier,Maule,0,0,0,22722,17487,287,provisional,2026-S1,2026
+196,07407,Villa Alegre,Maule,0,0,0,7483,5936,2,provisional,2026-S1,2026
+197,07408,Yerbas Buenas,Maule,0,0,0,5981,4009,3,provisional,2026-S1,2026
+198,08101,Concepci├│n,Biob├¡o,43,0,43,139090,91251,2,provisional,2026-S1,2026
+199,08102,Coronel,Biob├¡o,9,0,9,49181,44529,3,provisional,2026-S1,2026
+200,08103,Chiguayante,Biob├¡o,13,0,13,32194,28109,274,provisional,2026-S1,2026
+201,08104,Florida,Biob├¡o,3,0,3,6163,2677,7,provisional,2026-S1,2026
+202,08105,Hualqui,Biob├¡o,0,0,0,9861,7479,5,provisional,2026-S1,2026
+203,08106,Lota,Biob├¡o,0,0,0,14170,13113,5,provisional,2026-S1,2026
+204,08107,Penco,Biob├¡o,2,0,2,16065,14416,4,provisional,2026-S1,2026
+205,08108,San Pedro de la Paz,Biob├¡o,54,0,54,68057,55385,71,provisional,2026-S1,2026
+206,08109,Santa Juana,Biob├¡o,0,0,0,6281,4321,1,provisional,2026-S1,2026
+207,08110,Talcahuano,Biob├¡o,10,0,10,50977,46120,5,provisional,2026-S1,2026
+208,08111,Tom├®,Biob├¡o,6,0,6,24322,19273,2,provisional,2026-S1,2026
+209,08112,Hualp├®n,Biob├¡o,4,0,4,33349,31300,2,provisional,2026-S1,2026
+210,08201,Lebu,Biob├¡o,0,0,0,9144,7866,14,provisional,2026-S1,2026
+211,08202,Arauco,Biob├¡o,0,0,0,13097,10832,28,provisional,2026-S1,2026
+212,08203,Ca├▒ete,Biob├¡o,0,0,0,8946,7351,2,provisional,2026-S1,2026
+213,08204,Contulmo,Biob├¡o,0,0,0,1676,1190,0,provisional,2026-S1,2026
+214,08205,Curanilahue,Biob├¡o,0,0,0,9901,9272,4,provisional,2026-S1,2026
+215,08206,Los ├ülamos,Biob├¡o,0,0,0,7327,6105,4,provisional,2026-S1,2026
+216,08207,Tir├║a,Biob├¡o,0,0,0,1816,1437,0,provisional,2026-S1,2026
+217,08301,Los ├üngeles,Biob├¡o,23,0,23,83820,65587,15,provisional,2026-S1,2026
+218,08302,Antuco,Biob├¡o,0,0,0,2237,1314,1,provisional,2026-S1,2026
+219,08303,Cabrero,Biob├¡o,0,0,0,11770,8433,9,provisional,2026-S1,2026
+220,08304,Laja,Biob├¡o,0,0,0,7625,6267,2,provisional,2026-S1,2026
+221,08305,Mulch├®n,Biob├¡o,0,0,0,8947,7474,1,provisional,2026-S1,2026
+222,08306,Nacimiento,Biob├¡o,0,0,0,9455,8095,2,provisional,2026-S1,2026
+223,08307,Negrete,Biob├¡o,0,0,0,3283,2478,3,provisional,2026-S1,2026
+224,08308,Quilaco,Biob├¡o,0,0,0,1540,992,1,provisional,2026-S1,2026
+225,08309,Quilleco,Biob├¡o,0,0,0,2749,2020,0,provisional,2026-S1,2026
+226,08310,San Rosendo,Biob├¡o,0,0,0,1182,938,0,provisional,2026-S1,2026
+227,08311,Santa B├írbara,Biob├¡o,0,0,0,4280,3323,0,provisional,2026-S1,2026
+228,08312,Tucapel,Biob├¡o,1,0,1,7819,6147,9,provisional,2026-S1,2026
+229,08313,Yumbel,Biob├¡o,1,0,1,9512,6291,9,provisional,2026-S1,2026
+230,08314,Alto Biob├¡o,Biob├¡o,0,0,0,511,255,0,provisional,2026-S1,2026
+252,09101,Temuco,La Araucan├¡a,0,0,0,147165,110578,95,provisional,2026-S1,2026
+253,09102,Carahue,La Araucan├¡a,0,0,0,6092,5115,9,provisional,2026-S1,2026
+254,09103,Cunco,La Araucan├¡a,0,0,0,7763,5091,25,provisional,2026-S1,2026
+255,09104,Curarrehue,La Araucan├¡a,0,0,0,3234,897,0,provisional,2026-S1,2026
+256,09105,Freire,La Araucan├¡a,0,0,0,5479,3461,3,provisional,2026-S1,2026
+257,09106,Galvarino,La Araucan├¡a,0,0,0,1983,1646,1,provisional,2026-S1,2026
+258,09107,Gorbea,La Araucan├¡a,0,0,0,5577,4201,7,provisional,2026-S1,2026
+259,09108,Lautaro,La Araucan├¡a,0,0,0,14444,11948,4,provisional,2026-S1,2026
+260,09109,Loncoche,La Araucan├¡a,0,0,0,10976,7087,7,provisional,2026-S1,2026
+261,09110,Melipeuco,La Araucan├¡a,0,0,0,2047,1081,2,provisional,2026-S1,2026
+262,09111,Nueva Imperial,La Araucan├¡a,0,0,0,7809,6473,0,provisional,2026-S1,2026
+263,09112,Padre Las Casas,La Araucan├¡a,0,0,0,19986,17767,1,provisional,2026-S1,2026
+264,09113,Perquenco,La Araucan├¡a,0,0,0,1856,1458,1,provisional,2026-S1,2026
+265,09114,Pitrufqu├®n,La Araucan├¡a,0,0,0,10232,7542,8,provisional,2026-S1,2026
+266,09115,Puc├│n,La Araucan├¡a,0,0,0,30768,15043,6,provisional,2026-S1,2026
+267,09116,Saavedra,La Araucan├¡a,0,0,0,2131,1408,3,provisional,2026-S1,2026
+268,09117,Teodoro Schmidt,La Araucan├¡a,0,0,0,3335,2547,33,provisional,2026-S1,2026
+269,09118,Tolt├®n,La Araucan├¡a,0,0,0,2395,1864,0,provisional,2026-S1,2026
+270,09119,Vilc├║n,La Araucan├¡a,0,0,0,10264,7491,2,provisional,2026-S1,2026
+271,09120,Villarrica,La Araucan├¡a,0,0,0,38482,23145,12,provisional,2026-S1,2026
+272,09121,Cholchol,La Araucan├¡a,0,0,0,2560,1731,5,provisional,2026-S1,2026
+273,09201,Angol,La Araucan├¡a,0,0,0,22173,19299,26,provisional,2026-S1,2026
+274,09202,Collipulli,La Araucan├¡a,0,0,0,7304,6635,5,provisional,2026-S1,2026
+275,09203,Curacaut├¡n,La Araucan├¡a,0,0,0,9930,6247,5,provisional,2026-S1,2026
+276,09204,Ercilla,La Araucan├¡a,0,0,0,1846,1608,3,provisional,2026-S1,2026
+277,09205,Lonquimay,La Araucan├¡a,0,0,0,4341,1614,0,provisional,2026-S1,2026
+278,09206,Los Sauces,La Araucan├¡a,0,0,0,2180,1880,0,provisional,2026-S1,2026
+279,09207,Lumaco,La Araucan├¡a,0,0,0,2060,1586,49,provisional,2026-S1,2026
+280,09208,Pur├®n,La Araucan├¡a,0,0,0,3565,3120,0,provisional,2026-S1,2026
+281,09209,Renaico,La Araucan├¡a,0,0,0,3697,3358,3,provisional,2026-S1,2026
+282,09210,Traigu├®n,La Araucan├¡a,0,0,0,6686,5786,3,provisional,2026-S1,2026
+283,09211,Victoria,La Araucan├¡a,0,0,0,12094,10012,3,provisional,2026-S1,2026
+296,10101,Puerto Montt,Los Lagos,0,0,0,117019,87002,12,provisional,2026-S1,2026
+297,10102,Calbuco,Los Lagos,0,0,0,9244,4696,4,provisional,2026-S1,2026
+298,10103,Cocham├│,Los Lagos,0,0,0,2697,441,0,provisional,2026-S1,2026
+299,10104,Fresia,Los Lagos,0,0,0,5738,3274,0,provisional,2026-S1,2026
+300,10105,Frutillar,Los Lagos,0,0,0,14160,7007,21,provisional,2026-S1,2026
+301,10106,Los Muermos,Los Lagos,0,0,0,8200,3205,0,provisional,2026-S1,2026
+302,10107,Llanquihue,Los Lagos,0,0,0,7932,4984,4,provisional,2026-S1,2026
+303,10108,Maull├¡n,Los Lagos,0,0,0,7797,3013,2,provisional,2026-S1,2026
+304,10109,Puerto Varas,Los Lagos,0,0,0,35776,16457,22,provisional,2026-S1,2026
+305,10201,Castro,Los Lagos,0,0,0,17733,13284,6,provisional,2026-S1,2026
+306,10202,Ancud,Los Lagos,0,0,0,23756,11770,13,provisional,2026-S1,2026
+307,10203,Chonchi,Los Lagos,0,0,0,7807,2709,2,provisional,2026-S1,2026
+308,10204,Curaco de V├®lez,Los Lagos,0,0,0,1108,669,1,provisional,2026-S1,2026
+309,10205,Dalcahue,Los Lagos,0,0,0,5602,2780,3,provisional,2026-S1,2026
+310,10206,Puqueld├│n,Los Lagos,0,0,0,887,459,3,provisional,2026-S1,2026
+311,10207,Queil├®n,Los Lagos,0,0,0,2629,1258,1,provisional,2026-S1,2026
+312,10208,Quell├│n,Los Lagos,0,0,0,8334,5270,2,provisional,2026-S1,2026
+313,10209,Quemchi,Los Lagos,0,0,0,2479,985,3,provisional,2026-S1,2026
+314,10210,Quinchao,Los Lagos,0,0,0,1903,1276,1,provisional,2026-S1,2026
+315,10301,Osorno,Los Lagos,0,0,0,68549,55838,175,provisional,2026-S1,2026
+316,10302,Puerto Octay,Los Lagos,0,0,0,3790,1675,1,provisional,2026-S1,2026
+317,10303,Purranque,Los Lagos,0,0,0,7053,5305,0,provisional,2026-S1,2026
+318,10304,Puyehue,Los Lagos,0,0,0,5446,2583,0,provisional,2026-S1,2026
+319,10305,R├¡o Negro,Los Lagos,0,0,0,4983,3262,0,provisional,2026-S1,2026
+320,10306,San Juan de la Costa,Los Lagos,0,0,0,1781,1189,0,provisional,2026-S1,2026
+321,10307,San Pablo,Los Lagos,0,0,0,3474,2375,1,provisional,2026-S1,2026
+322,10401,Chait├®n,Los Lagos,0,0,0,2730,1219,0,provisional,2026-S1,2026
+323,10402,Futaleuf├║,Los Lagos,0,0,0,1691,671,1,provisional,2026-S1,2026
+324,10403,Hualaihu├®,Los Lagos,0,0,0,3429,1387,0,provisional,2026-S1,2026
+325,10404,Palena,Los Lagos,0,0,0,933,455,0,provisional,2026-S1,2026
+326,11101,Coyhaique,Ays├®n,0,0,0,28250,19711,10,provisional,2026-S1,2026
+327,11102,Lago Verde,Ays├®n,0,0,0,969,285,0,provisional,2026-S1,2026
+328,11201,Ays├®n,Ays├®n,0,0,0,12817,8133,7,provisional,2026-S1,2026
+329,11202,Cisnes,Ays├®n,0,0,0,3450,1818,0,provisional,2026-S1,2026
+330,11203,Guaitecas,Ays├®n,0,0,0,500,327,2,provisional,2026-S1,2026
+331,11301,Cochrane,Ays├®n,0,0,0,2031,1192,0,provisional,2026-S1,2026
+332,11302,O┬┤Higgins,Ays├®n,0,0,0,365,195,0,provisional,2026-S1,2026
+333,11303,Tortel,Ays├®n,0,0,0,265,133,1,provisional,2026-S1,2026
+334,11401,Chile Chico,Ays├®n,0,0,0,3534,1822,7,provisional,2026-S1,2026
+335,11402,R├¡o Ib├í├▒ez,Ays├®n,0,0,0,3586,980,5,provisional,2026-S1,2026
+336,12101,Punta Arenas,Magallanes,0,0,0,59914,47407,12,provisional,2026-S1,2026
+337,12102,Laguna Blanca,Magallanes,0,0,0,74,50,0,provisional,2026-S1,2026
+338,12103,R├¡o Verde,Magallanes,0,0,0,23,1,0,provisional,2026-S1,2026
+339,12104,San Gregorio,Magallanes,0,0,0,239,118,0,provisional,2026-S1,2026
+340,12201,Cabo de Hornos (Ex - Navarino),Magallanes,0,0,0,848,404,0,provisional,2026-S1,2026
+341,12202,Ant├írtica,Magallanes,0,0,0,0,0,0,provisional,2026-S1,2026
+342,12301,Porvenir,Magallanes,0,0,0,3274,2017,2,provisional,2026-S1,2026
+343,12302,Primavera,Magallanes,0,0,0,262,65,0,provisional,2026-S1,2026
+344,12303,Timaukel,Magallanes,0,0,0,253,13,30,provisional,2026-S1,2026
+345,12401,Natales,Magallanes,0,0,0,12195,8796,2,provisional,2026-S1,2026
+346,12402,Torres del Paine,Magallanes,0,0,0,125,23,1,provisional,2026-S1,2026
+83,13101,Santiago,Metropolitana,6218,5616,602,421154,219735,1,provisional,2026-S1,2026
+84,13102,Cerrillos,Metropolitana,159,139,20,32858,28136,2,provisional,2026-S1,2026
+85,13103,Cerro Navia,Metropolitana,71,61,10,32108,30699,4,provisional,2026-S1,2026
+86,13104,Conchal├¡,Metropolitana,159,145,14,36074,32223,0,provisional,2026-S1,2026
+87,13105,El Bosque,Metropolitana,159,147,12,44394,42545,1,provisional,2026-S1,2026
+88,13106,Estaci├│n Central,Metropolitana,1678,1637,41,97083,70314,50,provisional,2026-S1,2026
+89,13107,Huechuraba,Metropolitana,465,328,137,46281,28415,220,provisional,2026-S1,2026
+90,13108,Independencia,Metropolitana,932,889,43,60972,43746,38,provisional,2026-S1,2026
+91,13109,La Cisterna,Metropolitana,647,598,49,57645,42309,1,provisional,2026-S1,2026
+92,13110,La Florida,Metropolitana,1491,1335,156,184659,140209,195,provisional,2026-S1,2026
+93,13111,La Granja,Metropolitana,105,100,5,31862,29929,2,provisional,2026-S1,2026
+94,13112,La Pintana,Metropolitana,72,60,12,50730,48827,1171,provisional,2026-S1,2026
+95,13113,La Reina,Metropolitana,617,451,166,41362,30094,1,provisional,2026-S1,2026
+96,13114,Las Condes,Metropolitana,2979,1901,1078,393151,128417,49,provisional,2026-S1,2026
+97,13115,Lo Barnechea,Metropolitana,1392,859,533,74645,34071,24,provisional,2026-S1,2026
+98,13116,Lo Espejo,Metropolitana,36,33,3,24010,23027,1,provisional,2026-S1,2026
+99,13117,Lo Prado,Metropolitana,69,65,4,25655,24090,4,provisional,2026-S1,2026
+100,13118,Macul,Metropolitana,671,592,79,77872,49159,0,provisional,2026-S1,2026
+101,13119,Maip├║,Metropolitana,1039,945,94,172295,161180,0,provisional,2026-S1,2026
+102,13120,├æu├▒oa,Metropolitana,1934,1635,299,263277,127744,0,provisional,2026-S1,2026
+103,13121,Pedro Aguirre Cerda,Metropolitana,88,81,7,29234,26581,2,provisional,2026-S1,2026
+104,13122,Pe├▒alol├®n,Metropolitana,632,490,142,69621,62568,15,provisional,2026-S1,2026
+105,13123,Providencia,Metropolitana,1740,1240,500,218019,75480,57,provisional,2026-S1,2026
+106,13124,Pudahuel,Metropolitana,386,300,86,70942,64792,3,provisional,2026-S1,2026
+107,13125,Quilicura,Metropolitana,356,278,78,68972,65158,2,provisional,2026-S1,2026
+108,13126,Quinta Normal,Metropolitana,576,526,50,48469,38317,2,provisional,2026-S1,2026
+109,13127,Recoleta,Metropolitana,465,405,60,56175,40347,1,provisional,2026-S1,2026
+110,13128,Renca,Metropolitana,130,98,32,45179,41884,1,provisional,2026-S1,2026
+111,13129,San Joaqu├¡n,Metropolitana,295,254,41,39256,31123,269,provisional,2026-S1,2026
+112,13130,San Miguel,Metropolitana,1241,1175,66,117213,63794,3,provisional,2026-S1,2026
+113,13131,San Ram├│n,Metropolitana,43,40,3,20345,19230,3,provisional,2026-S1,2026
+114,13132,Vitacura,Metropolitana,1165,636,529,114378,35280,0,provisional,2026-S1,2026
+115,13201,Puente Alto,Metropolitana,1012,929,83,186785,181059,190,provisional,2026-S1,2026
+116,13202,Pirque,Metropolitana,150,138,12,7002,5286,4,provisional,2026-S1,2026
+117,13203,San Jos├® de Maipo,Metropolitana,88,86,2,6282,4577,1,provisional,2026-S1,2026
+118,13301,Colina,Metropolitana,1981,1075,906,55207,48360,11,provisional,2026-S1,2026
+119,13302,Lampa,Metropolitana,524,417,107,40005,35091,2,provisional,2026-S1,2026
+120,13303,Tiltil,Metropolitana,8,0,8,5436,4426,2,provisional,2026-S1,2026
+121,13401,San Bernardo,Metropolitana,541,473,68,100154,92679,21,provisional,2026-S1,2026
+122,13402,Buin,Metropolitana,309,267,42,37510,34676,278,provisional,2026-S1,2026
+123,13403,Calera de Tango,Metropolitana,118,113,5,6919,5493,7,provisional,2026-S1,2026
+124,13404,Paine,Metropolitana,271,255,16,22167,17501,3,provisional,2026-S1,2026
+125,13501,Melipilla,Metropolitana,243,231,12,40568,35662,3,provisional,2026-S1,2026
+126,13502,Alhu├®,Metropolitana,6,5,1,1487,1238,0,provisional,2026-S1,2026
+127,13503,Curacav├¡,Metropolitana,294,277,17,13066,8705,2,provisional,2026-S1,2026
+128,13504,Mar├¡a Pinto,Metropolitana,28,28,0,3733,2714,1,provisional,2026-S1,2026
+129,13505,San Pedro,Metropolitana,24,23,1,1520,915,2,provisional,2026-S1,2026
+130,13601,Talagante,Metropolitana,263,253,10,24335,20711,5,provisional,2026-S1,2026
+131,13602,El Monte,Metropolitana,39,38,1,10962,10092,1,provisional,2026-S1,2026
+132,13603,Isla de Maipo,Metropolitana,157,148,9,12117,10577,3,provisional,2026-S1,2026
+133,13604,Padre Hurtado,Metropolitana,205,185,20,28716,26040,7,provisional,2026-S1,2026
+134,13605,Pe├▒aflor,Metropolitana,220,204,16,30266,28320,2,provisional,2026-S1,2026
+284,14101,Valdivia,Los R├¡os,0,0,0,66138,51809,70,provisional,2026-S1,2026
+285,14102,Corral,Los R├¡os,0,0,0,2654,1712,0,provisional,2026-S1,2026
+286,14103,Lanco,Los R├¡os,0,0,0,6074,4839,6,provisional,2026-S1,2026
+287,14104,Los Lagos,Los R├¡os,0,0,0,7288,4430,54,provisional,2026-S1,2026
+288,14105,M├ífil,Los R├¡os,0,0,0,2398,1746,0,provisional,2026-S1,2026
+289,14106,Mariquina,Los R├¡os,0,0,0,7791,5450,0,provisional,2026-S1,2026
+290,14107,Paillaco,Los R├¡os,0,0,0,6522,4486,1,provisional,2026-S1,2026
+291,14108,Panguipulli,Los R├¡os,0,0,0,13962,7949,13,provisional,2026-S1,2026
+292,14201,La Uni├│n,Los R├¡os,0,0,0,15506,10952,22,provisional,2026-S1,2026
+293,14202,Futrono,Los R├¡os,0,0,0,6044,3865,303,provisional,2026-S1,2026
+294,14203,Lago Ranco,Los R├¡os,0,0,0,4783,2216,4,provisional,2026-S1,2026
+295,14204,R├¡o Bueno,Los R├¡os,0,0,0,12064,8928,4,provisional,2026-S1,2026
+1,15101,Arica,Arica y Parinacota,0,0,0,78033,64703,11,provisional,2026-S1,2026
+2,15102,Camarones,Arica y Parinacota,0,0,0,902,365,0,provisional,2026-S1,2026
+3,15201,Putre,Arica y Parinacota,0,0,0,1304,698,0,provisional,2026-S1,2026
+4,15202,General Lagos,Arica y Parinacota,0,0,0,221,121,2,provisional,2026-S1,2026
+231,16101,Chill├ín,├æuble,0,0,0,88766,72964,7,provisional,2026-S1,2026
+232,16102,Bulnes,├æuble,0,0,0,9970,7063,13,provisional,2026-S1,2026
+236,16103,Chill├ín Viejo,├æuble,0,0,0,12846,10846,2,provisional,2026-S1,2026
+237,16104,El Carmen,├æuble,0,0,0,3759,2371,6,provisional,2026-S1,2026
+240,16105,Pemuco,├æuble,0,0,0,3561,2212,1,provisional,2026-S1,2026
+241,16106,Pinto,├æuble,0,0,0,7401,3763,4,provisional,2026-S1,2026
+243,16107,Quill├│n,├æuble,0,0,0,10867,6591,7,provisional,2026-S1,2026
+248,16108,San Ignacio,├æuble,0,0,0,5804,3746,4,provisional,2026-S1,2026
+251,16109,Yungay,├æuble,0,0,0,7765,5099,7,provisional,2026-S1,2026
+244,16201,Quirihue,├æuble,0,0,0,5214,3953,2,provisional,2026-S1,2026
+233,16202,Cobquecura,├æuble,0,0,0,3525,1752,0,provisional,2026-S1,2026
+234,16203,Coelemu,├æuble,0,0,0,4837,3663,3,provisional,2026-S1,2026
+238,16204,Ninhue,├æuble,0,0,0,1722,998,1,provisional,2026-S1,2026
+242,16205,Portezuelo,├æuble,0,0,0,1388,983,0,provisional,2026-S1,2026
+245,16206,R├ínquil,├æuble,0,0,0,2112,1569,0,provisional,2026-S1,2026
+250,16207,Treguaco,├æuble,0,0,0,2260,1342,1,provisional,2026-S1,2026
+246,16301,San Carlos,├æuble,0,0,0,20932,15955,12,provisional,2026-S1,2026
+235,16302,Coihueco,├æuble,0,0,0,8018,5626,0,provisional,2026-S1,2026
+239,16303,├æiqu├®n,├æuble,0,0,0,2699,1223,10,provisional,2026-S1,2026
+247,16304,San Fabi├ín,├æuble,0,0,0,2085,1092,1,provisional,2026-S1,2026
+249,16305,San Nicol├ís,├æuble,0,0,0,5996,2411,2,provisional,2026-S1,2026
